@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+</head>
+<body>
+    <nav class="main-nav">
+        <ul>
+            <li><a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
+            <li><a href="/now.html" {% if page.url == "/now.html" %}class="active"{% endif %}>Now</a></li>
+        </ul>
+    </nav>
+    {{ content}}
+</body>
+</html>
