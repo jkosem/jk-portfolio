@@ -7,3 +7,6 @@ theme:
 exclude:
   - README.md
   - .gitignore
+
+sass:
+    sass_dir: _sass
