@@ -3,3 +3,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 title: "Jim Kosem: Design, strategy & research" # the name of your site, e.g. ACME Corp.
 
 theme:
+
+exclude:
+  - README.md
+  - .gitignore

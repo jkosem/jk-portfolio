@@ -15,3 +15,7 @@ https://www.youtube.com/watch?v=-LhLFeuvc38
 Navigation
 
 https://learn.cloudcannon.com/jekyll/simple-navigation/
+
+Issues with directories and CSS not showing up properly
+
+https://github.community/t/css-not-being-applied-in-pages/10466/10

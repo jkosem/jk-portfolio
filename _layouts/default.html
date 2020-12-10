@@ -5,11 +5,12 @@
     <meta charset="utf-8">
     <title>{{ page.title }} - {{ site.title }}</title>
     <link rel="stylesheet" href="{{ "assets/css/main.css" | relative_url }}">
+    <link rel="shortcut icon" type="images/png" href="favicon.ico">
 </head>
 <body>
     <nav class="main-nav">
         <ul>
-            <li><a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
+            <li><a href="/index.html" {% if page.url == "/index.html" %}class="active"{% endif %}>Home</a></li>
             <li><a href="/now.html" {% if page.url == "/now.html" %}class="active"{% endif %}>Now</a></li>
         </ul>
     </nav>
