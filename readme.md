@@ -1,3 +1,5 @@
+> This readme is a work-in-progress obviously
+
 A lot of the things here worked
 
 https://github.com/jekyll/jekyll/issues/3984
