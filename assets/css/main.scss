@@ -11,6 +11,13 @@ $bodyColor: #000;
 
 $font-body: 'Source Sans Pro', sans-serif;
 
+html {
+    position:relative;
+    min-height:100%;
+}
+
+
+
 .container {
     background-color: #fff;
     overflow:hidden;
@@ -21,8 +28,8 @@ $font-body: 'Source Sans Pro', sans-serif;
     margin: auto;
     padding-bottom: 23px;
     max-width: 560px;
+    height: 100%;
 }
-
 
 nav.main-nav {
     margin-top: 31px;
@@ -49,6 +56,11 @@ a.active {
 .footer {
     background-color: #CDE7B0;
     padding-top: 31px;
+    bottom: 0;
+clear: both;
+margin-top: auto;
+    width:100%;
+    bottom:0px;
 }
 .footer p {
     color: #395C6B;

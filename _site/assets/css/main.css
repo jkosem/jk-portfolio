@@ -1,7 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap");
+html { position: relative; min-height: 100%; }
+
 .container { background-color: #fff; overflow: hidden; margin: 0 auto; height: 100%; }
 
-.content { margin: auto; padding-bottom: 23px; max-width: 560px; }
+.content { margin: auto; padding-bottom: 23px; max-width: 560px; height: 100%; }
 
 nav.main-nav { margin-top: 31px; }
 
@@ -13,7 +15,7 @@ nav.main-nav li a { padding: 10px; }
 
 a.active { font-weight: 700; }
 
-.footer { background-color: #CDE7B0; padding-top: 31px; }
+.footer { background-color: #CDE7B0; padding-top: 31px; bottom: 0; clear: both; margin-top: auto; width: 100%; bottom: 0px; }
 
 .footer p { color: #395C6B; }
 
