@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Jim Kosem's portfolio and all that"
+title: "Jim Kosem: Now"
 permalink: /now
 ---
 

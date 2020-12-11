@@ -1,4 +1,4 @@
-I":<h1 id="hi-im-jim">Hi, I’m Jim.</h1>
+I"<h1 id="hi-im-jim">Hi, I’m Jim.</h1>
 
 <h3 id="i-work-across-design-research-and-strategy-to-make-emerging-technologies-practical-realities">I work across design, research and strategy to make emerging technologies practical realities.</h3>
 
@@ -7,4 +7,13 @@
 <p>I design. Sometimes that’s an interface. Sometimes it’s lots of screens. Sometimes it’s extensive maps and documentation. It’s all design. Just like researching who might be using the wider service in which that sits, whether it be on a London housing estate or a village in Rwanda. Likewise, that means developing the strategy of a product or service, because that is helping find out what to design.</p>
 
 <p>Design should be a very broad practice, calling upon all the ways we can think of and use to solve our world’s problems. Sometime a well written sentence can do the job of an entire application and sometimes you need to work at what not to design.</p>
+
+<h4>What I'm up to lately</h4>
+<ul class="myposts">
+
+    <li><a href="/update/2020/12/11/hello-world.html">Hello World! Except a bit more of a bigger hello</a>
+    <span class="postDate">(11 Dec 2020)</span>
+    </li>
+
+</ul>
 :ET
