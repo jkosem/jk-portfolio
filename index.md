@@ -3,9 +3,9 @@ layout: default
 title: "Jim Kosem: Design, strategy & research"
 ---
 
-# Hi, I'm Jim.
+### Hi, I'm Jim.
 
-### I work across design, research and strategy to make emerging technologies practical realities.
+## I work across design, research and strategy to make emerging technologies practical realities.
 
 I work on products and services with impact and scale like government, a fairer and more secure peer-to-peer internet to reinventing what used to be email.
 
