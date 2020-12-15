@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="{{ site.lang | default: "en-US" }}">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
-    <title>Hello World! - Jim Kosem: Design, strategy & research</title>
-    <link rel="stylesheet" href="/../assets/css/main.css">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ root_url }}/../assets/css/main.css">
     <link rel="shortcut icon" type="images/png" href="favicon-16x16.png">
 </head>
 <body>
@@ -14,24 +14,23 @@
 
             <nav class="main-nav">
                 <ul>
-                    <li><a href="/index.html" >Home</a></li>
-                    <li><a href="/faq.html" >FAQ</a></li>
-                    <li><a href="/now.html" >Now</a></li>
-                    <li><a href="/blog.html" >Blog</a></li>
+                    <li><a href="{{ root_url }}/index.html" {% if page.url == "/index.html" %}class="active"{% endif %}>Home</a></li>
+                    <li><a href="{{ root_url }}/faq.html" {% if page.url == "/faq.html" %}class="active"{% endif %}>FAQ</a></li>
+                    <li><a href="{{ root_url }}/now.html" {% if page.url == "/../now.html" %}class="active"{% endif %}>Now</a></li>
+                    <li><a href="{{ root_url }}/blog.html" {% if page.url == "/../blog.html" %}class="active"{% endif %}>Blog</a></li>
                     <li><a href="mailto:jim@jimkosem.com">Email</a></li>
                     <li><a href="https://www.linkedin.com/in/jkosem/" target="_blank">CV</a></li>
                 </ul>
             </nav>
 
-            
-            <h1>Hello World!</h1>
-            
-            10 Dec 2020
+            {% if page.title%}
+            <h1>{{page.title}}</h1>
+            {% else %}
+            <h1>Untitled post</h1>
+            {% endif %}
+            {{ page.date | date: "%d %b %Y" }}
             <p>&nbsp;</p>
-            <p>Well, this is the first post in what will obviously bring nothing but world peace and happiness to everyone.</p>
-
-<p>Oh yeah and there has to be some more stuff at the bottom because I haven’t figured out sticky footers yet.</p>
-
+            {{ content }}
             <p>&nbsp;</p>
 
         </div>
