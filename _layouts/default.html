@@ -12,26 +12,18 @@
 <div class="container">
     <div class="content">
 
-    <nav class="main-nav">
-        <ul>
-            <li><a href="index.html" {% if page.url == "index.html" %}class="active"{% endif %}>Home</a></li>
-            <li><a href="faq.html" {% if page.url == "faq.html" %}class="active"{% endif %}>FAQ</a></li>
-            <li><a href="now.html" {% if page.url == "now.html" %}class="active"{% endif %}>Now</a></li>
-            <li><a href="blog.html" {% if page.url == "blog.html" %}class="active"{% endif %}>Blog</a></li>
-            <li><a href="mailto:jim@jimkosem.com">Email</a></li>
-            <li><a href="https://www.linkedin.com/in/jkosem/" target="_blank">CV</a></li>
-        </ul>
-    </nav>
+    {% include header.html %}
 
     {{ content}}
 
 </div>
-<div class="footer">
+<div class="subfooter">
     <div class="content">
-        <p>The whole site is open source and available on Github in the repo <a href="https://github.com/jkosem/jk-portfolio">here</a>. Mind the license and give credit where it's due.</p>
-        <p>&copy; Copyright 2020 Jim Kosem</p>
+        <img src="/assets/images/logos.png" style="padding-top:33px;padding-bottom:33px;">
     </div>
 </div>
+
+{% include footer.html %}
 
 </div>
 

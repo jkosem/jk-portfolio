@@ -1,4 +1,4 @@
-I"¨<h1 id="blog">Blog</h1>
+I"¥<h1 id="blog">Blog</h1>
 
 <p>Here is the blog where updates will go. There may be some better sorting at some point or images or something.</p>
 
@@ -28,6 +28,15 @@
 
       <a href="/post/2020/07/01/ipfs-mobile.html">IPFS Mobile Design Guidelines</a>
       <span class="date">(1 July 2020)</span>
+
+    </li>
+  
+    <li>
+
+      <!-- <a href="/post/2020/03/01/ipfs-browser.html">IPFS Browser Design Guidelines</a> -->
+
+      <a href="/post/2020/03/01/ipfs-browser.html">IPFS Browser Design Guidelines</a>
+      <span class="date">(1 March 2020)</span>
 
     </li>
   

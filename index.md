@@ -3,21 +3,34 @@ layout: default
 title: "Jim Kosem: Design, strategy & research"
 ---
 
-### Hi, I'm Jim.
+# Design, research & strategy
 
-## I work across design, research and strategy to make emerging technologies practical realities.
+Hi, I'm Jim and I work across design, research and strategy. This is to make emerging technologies practical realities, design systems that are liveable for everyone and help culture fit into our lives today and in the future. To find out more about the specifics, you might want to check out the [FAQ](faq.html).
 
-I work on products and services with impact and scale like government, a fairer and more secure peer-to-peer internet to reinventing what used to be email.
+Here are a few examples of what all of this looks like:
 
-I design. Sometimes that's an interface. Sometimes it's lots of screens. Sometimes it's extensive maps and documentation. It’s all design. Just like researching who might be using the wider service in which that sits, whether it be on a London housing estate or a village in Rwanda. Likewise, that means developing the strategy of a product or service, because that is helping find out what to design.
+#### [IPFS Mobile Design guidelines]({% post_url 2020-07-01-ipfs-mobile %})
 
-Design should be a very broad practice, calling upon all the ways we can think of and use to solve our world's problems. Sometime a well written sentence can do the job of an entire application and sometimes you need to work at what not to design.
+Bringing the power, safety and speed of a P2P internet to everyone
 
-<h4>What I'm up to lately</h4>
+#### [IPFS Mobile Browser guidelines](({% post_url 2020-03-01-ipfs-browser %}))
+
+Designing how to use a faster, safer, and more open Web
+
+#### [Siemens Atlas of Digitalisation]()
+
+Visualising improving the quality of urban living
+
+#### [Bastion]()
+
+Making reading liveable in today's world
+
+<!-- <h4>What I'm up to lately</h4>
 <ul class="myposts">
+
 {% for post in site.categories.update limit:3 %}
     <li><a href="{{ post.url }}">{{ post.title}}</a>
     <span class="postDate">{{ post.date | date: "(%-d %b %Y)" }}</span>
     </li>
 {% endfor %}
-</ul>
+</ul> -->
