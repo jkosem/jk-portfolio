@@ -2,7 +2,7 @@
 layout: post
 title:  "IPFS Mobile Design Guidelines"
 date: 2020-07-01
-category: post
+<!-- category: post -->
 tag: portfolio
 author: Jim
 ---

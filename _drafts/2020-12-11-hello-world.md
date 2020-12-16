@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Hello World! Again."
-category: update
-tag: 
+<!-- category: update -->
+tag:
 author: Jim
 ---
 

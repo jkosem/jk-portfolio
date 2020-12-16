@@ -10,11 +10,11 @@ Hi, I'm Jim and I work across design, research and strategy. This is to make eme
 
 Here are a few examples of what all of this looks like:
 
-#### [IPFS Mobile Design guidelines]({% post_url 2020-07-01-ipfs-mobile %})
+#### [IPFS Mobile Design guidelines](ipfs-mobile.html)
 
 Bringing the power, safety and speed of a P2P internet to everyone
 
-#### [IPFS Mobile Browser guidelines]({% post_url 2020-03-01-ipfs-browser %})
+#### [IPFS Mobile Browser guidelines](ipfs-browser.html)
 
 Designing how to use a faster, safer, and more open Web
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World!"
-category: post
+<!-- category: post -->
 tag: update
 author: Jim
 ---

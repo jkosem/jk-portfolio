@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "IPFS Browser Design Guidelines"
-category: post
+<!-- category: post -->
 tag: portfolio
 author: Jim
 ---
