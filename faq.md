@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Jim Kosem's portfolio"
-permalink: /faq
+<!-- permalink: /faq/ -->
 ---
 
 # FAQ

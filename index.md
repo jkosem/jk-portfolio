@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Jim Kosem: Design, strategy & research"
+permalink: /index
 ---
 
 # Design, research & strategy
@@ -13,7 +14,7 @@ Here are a few examples of what all of this looks like:
 
 Bringing the power, safety and speed of a P2P internet to everyone
 
-#### [IPFS Mobile Browser guidelines](({% post_url 2020-03-01-ipfs-browser %}))
+#### [IPFS Mobile Browser guidelines]({% post_url 2020-03-01-ipfs-browser %})
 
 Designing how to use a faster, safer, and more open Web
 
