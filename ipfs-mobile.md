@@ -1,8 +1,12 @@
 ---
 layout: post
 title:  "IPFS Mobile Design Guidelines"
+<<<<<<< HEAD:ipfs-mobile.md
 date: 2020-07-01
 <!-- category: post -->
+=======
+category: post
+>>>>>>> parent of 416f313... sort of working header links but still not working local:_posts/2020-07-01-ipfs-mobile.md
 tag: portfolio
 author: Jim
 ---
