@@ -25,6 +25,12 @@ Visualising improving the quality of urban living
 
 Making reading liveable in today's world
 
+<div class="subfooter">
+    <div>
+        <img src="assets/images/logos.png" style="padding-top:33px;padding-bottom:33px;">
+    </div>
+</div>
+
 <!-- <h4>What I'm up to lately</h4>
 <ul class="myposts">
 

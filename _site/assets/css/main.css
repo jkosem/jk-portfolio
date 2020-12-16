@@ -18,7 +18,7 @@ h2, h3 { font-family: "Roboto Slab", serif; font-weight: 700; }
 
 .content { height: 100%; }
 
-.subfooter { background-color: #F5FAF0; padding-top: 31px; bottom: 0; clear: both; margin-top: auto; width: 100%; bottom: 0px; }
+.subfooter { padding-top: 31px; bottom: 0; clear: both; margin-top: auto; width: 100%; bottom: 0px; }
 
 .footer { background-color: #CDE7B0; padding-top: 31px; bottom: 0; clear: both; margin-top: auto; width: 100%; bottom: 0px; }
 
