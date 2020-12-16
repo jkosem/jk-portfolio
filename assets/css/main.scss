@@ -135,10 +135,80 @@ a.active {
     color: #395C6B;
 }
 
+<<<<<<< HEAD
 .bloglist ul {
 }
 .bloglist li {
     text-decoration: none;
     list-style: none;
     padding-bottom: 31px;
+=======
+
+
+
+html, .root {
+    font-size: 18px;
+    line-height: 31px;
+}
+h1, .h1 {
+    font-size: 83px;
+    font-weight: 700;
+    color: #ccc;
+    line-height: 93px;
+    margin-top: 31px;
+    margin-bottom: 62px;
+}
+h2, .h2 {
+    font-size: 50px;
+    line-height: 62px;
+    margin-top: 31px;
+    margin-bottom: 31px;
+}
+h3, .h3 {
+    font-size: 30px;
+    line-height: 31px;
+    margin-top: 31px;
+    margin-bottom: 31px;
+}
+h4, .h4 {
+    font-size: 18px;
+    line-height: 31px;
+    margin-top: 31px;
+    margin-bottom: 0px;
+}
+h5, .h5 {
+    font-size: 18px;
+    line-height: 31px;
+    margin-top: 31px;
+    margin-bottom: 0px;
+}
+p, ul, ol, pre, table, blockquote  {
+    margin-top: 0px;
+    margin-bottom: 31px;
+}
+ul ul, ol ol, ul ol, ol ul {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+/* Let's make sure all's aligned */
+hr, .hr {
+    border: 1px solid;
+    margin: -1px 0;
+}
+a, b, i, strong, em, small, code {
+    line-height: 0;
+    text-decoration: none;
+}
+sub, sup {
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+sup {
+    top: -0.5em;
+}
+sub {
+    bottom: -0.25em;
+>>>>>>> parent of 2f59630... semi working blog with update section on index
 }

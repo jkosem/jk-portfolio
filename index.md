@@ -1,7 +1,11 @@
 ---
 layout: default
+<<<<<<< HEAD
 title: "Jim Kosem: Design, strategy & research"
 permalink: /index
+=======
+title: "Jim Kosem's portfolio"
+>>>>>>> parent of 2f59630... semi working blog with update section on index
 ---
 
 # Design, research & strategy
@@ -12,6 +16,7 @@ Here are a few examples of what all of this looks like:
 
 #### [IPFS Mobile Design guidelines](ipfs-mobile.html)
 
+<<<<<<< HEAD
 Bringing the power, safety and speed of a P2P internet to everyone
 
 #### [IPFS Mobile Browser guidelines](ipfs-browser.html)
@@ -41,3 +46,6 @@ Making reading liveable in today's world
     </li>
 {% endfor %}
 </ul> -->
+=======
+Design should be a very broad practice, calling upon all the ways we can think of and use to solve our world's problems. Sometime a well written sentence can do the job of an entire application and sometimes you need to work at what not to design.
+>>>>>>> parent of 2f59630... semi working blog with update section on index

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This readme is a work-in-progress obviously, but I'm posting links to things I've found helpful. Oh yeah, by the way, the entire thing was pulled together from all of the links and more stuff cast about all over the internets to build the Frankenstein site you have before you.
@@ -11,6 +12,11 @@ Jekyll 4.1 and above
 All the hosting is done on the Github page. Link over up there on the right with the URL.
 
 ## How to use
+=======
+> This readme is a work-in-progress obviously
+
+A lot of the things here worked
+>>>>>>> parent of 2f59630... semi working blog with update section on index
 
 1. Have everything installed like above, namely Ruby and Jekyll
 2. Need to build `jekyll build` to release
