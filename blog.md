@@ -19,8 +19,3 @@ Here is the blog where updates will go. There may be some better sorting at some
     </li>
   {% endfor %}
 </ul>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>

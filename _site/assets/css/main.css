@@ -1,33 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700;900&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700;900&display=swap");
-@import url("type.css");
-/* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) { .content { margin: auto; padding-bottom: 23px; margin-left: 200px; margin-right: 200px; } }
-
-html { position: relative; min-height: 100%; }
-
-html, .root { font-size: 20px; line-height: 33px; }
-
-body { background: #F5FAF0; color: #395C6B; font-family: "Source Sans Pro", sans-serif; font-size: 1em; line-height: 1.65em; }
-
-h1, h2, h3 { font-family: "Roboto Slab", serif; font-weight: 900; }
-
-h2, h3 { font-family: "Roboto Slab", serif; font-weight: 700; }
-
-<<<<<<< HEAD
-.container { background-color: #fff; overflow: hidden; margin: 0 auto; height: 100%; }
-
-.content { height: 100%; }
-=======
-html, .root { font-size: 18px; line-height: 31px; }
->>>>>>> parent of 2f59630... semi working blog with update section on index
-
-.subfooter { padding-top: 31px; bottom: 0; clear: both; margin-top: auto; width: 100%; bottom: 0px; }
-
-.footer { background-image: url("../images/pattern1.png"); padding-top: 31px; bottom: 0; clear: both; margin-top: auto; width: 100%; bottom: 0px; }
-
-img { width: 100%; height: auto; }
-
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap");
 nav.main-nav { margin-top: 31px; }
 
 nav.main-nav ul { margin: 0px; padding: 0px; list-style: none; }
@@ -36,14 +7,41 @@ nav.main-nav li, nav.main-nav a { display: inline-block; }
 
 nav.main-nav li a { padding: 10px; }
 
-a { font-weight: 600; color: #BE6E46; text-decoration: none; }
+a.active { font-weight: 700; }
 
-a.active { font-weight: 600; }
+footnotes { /* a single footnote link */ margin-top: 50px; }
 
-.footnotes { margin-top: 50px; color: #395C6B; }
+body { background: #fff; color: #000; font-family: "Source Sans Pro", sans-serif; }
 
-.footer { color: #395C6B; }
+body, .article { font-size: 18px; line-height: 31px; max-width: 560px; margin: auto; }
 
 .bloglist li { text-decoration: none; list-style: none; padding-bottom: 31px; }
+
+html, .root { font-size: 18px; line-height: 31px; }
+
+h1, .h1 { font-size: 83px; font-weight: 700; color: #ccc; line-height: 93px; margin-top: 31px; margin-bottom: 62px; }
+
+h2, .h2 { font-size: 50px; line-height: 62px; margin-top: 31px; margin-bottom: 31px; }
+
+h3, .h3 { font-size: 30px; line-height: 31px; margin-top: 31px; margin-bottom: 31px; }
+
+h4, .h4 { font-size: 18px; line-height: 31px; margin-top: 31px; margin-bottom: 0px; }
+
+h5, .h5 { font-size: 18px; line-height: 31px; margin-top: 31px; margin-bottom: 0px; }
+
+p, ul, ol, pre, table, blockquote { margin-top: 0px; margin-bottom: 31px; }
+
+ul ul, ol ol, ul ol, ol ul { margin-top: 0px; margin-bottom: 0px; }
+
+/* Let's make sure all's aligned */
+hr, .hr { border: 1px solid; margin: -1px 0; }
+
+a, b, i, strong, em, small, code { line-height: 0; text-decoration: none; }
+
+sub, sup { line-height: 0; position: relative; vertical-align: baseline; }
+
+sup { top: -0.5em; }
+
+sub { bottom: -0.25em; }
 
 /*# sourceMappingURL=main.css.map */
