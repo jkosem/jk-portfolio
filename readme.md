@@ -16,6 +16,7 @@ All the hosting is done on the Github page. Link over up there on the right with
 2. Need to build `jekyll build` to release
 3. Can also, whilst developing, use `jekyll serve --livereload` which will upon saving, reload the file in browser at `http://localhost:4000/`
 4. Need to `git add .`, `git commit -m <message>` and `git push` to get it to GitHub to get it to be available at URL
+5. Can check (allegedly) the lastest, uncached version by going to 'https://jkosem.github.io/jk-portfolio/?version=<version>'
 
 ## Links, reference, etc.
 
