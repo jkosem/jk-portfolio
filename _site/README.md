@@ -16,7 +16,6 @@ All the hosting is done on the Github page. Link over up there on the right with
 2. Need to build `jekyll build` to release
 3. Can also, whilst developing, use `jekyll serve --livereload` which will upon saving, reload the file in browser at `http://localhost:4000/`
 4. Need to `git add .`, `git commit -m <message>` and `git push` to get it to GitHub to get it to be available at URL
-5. Github Pages seem to take a long time to load, so this allegedly works `https://username.github.io/awesome-repo/?version=f36af92`
 
 ## Links, reference, etc.
 
@@ -33,3 +32,5 @@ A lot of the things [here](https://github.com/jekyll/jekyll/issues/3984) worked
 This guy has a good post on [How to Make a Jekyll Site/Blog](https://brianm.me/posts/how-to-make-jekyll-site-blog)
 
 I nicked a lot of things on how to do posts from [here](https://www.section.io/engineering-education/build-a-jekyll-site/).
+
+I'm rubbish at doing menus properly from memory, so [the classic float menu at W3C] (https://www.w3schools.com/Css/css_navbar_horizontal.asp)

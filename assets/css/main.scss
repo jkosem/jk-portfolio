@@ -87,13 +87,16 @@ h2, h3 {
 }
 .footer {
     // background-color: #CDE7B0;
-    background-image: url("../images/pattern1.png");
-    padding-top: 31px;
+    // background-image: url("../images/pattern1.png");
+    padding-top: 93px;
     bottom: 0;
     clear: both;
     margin-top: auto;
     width:100%;
     bottom:0px;
+}
+.footer p {
+      color: #A3BFA8;
 }
 
 img {
@@ -109,25 +112,33 @@ nav.main-nav ul {
     margin: 0px;
     padding: 0px;
     list-style: none;
-    // float: right;
+    list-style-type: none;
+    float: right;
+    overflow: hidden;
 }
-nav.main-nav li,
-nav.main-nav a {
+nav.main-nav li {
     display: inline-block;
 }
-nav.main-nav li a {
+nav.main-nav a {
+    // display: block;
     padding: 10px;
 }
+nav.main-nav li a {
+    display: block;
+}
+nav.name {
+    float: left;
+}
+
+
 a {
     font-weight: 600;
     color: #BE6E46;
     text-decoration: none;
 }
-a.active {
-    font-weight: 600;
-}
+
 .footnotes {
-    margin-top: 50px;
+    margin-top: 62px;
     color: #395C6B;
 }
 

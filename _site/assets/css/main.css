@@ -20,23 +20,27 @@ h2, h3 { font-family: "Roboto Slab", serif; font-weight: 700; }
 
 .subfooter { padding-top: 31px; bottom: 0; clear: both; margin-top: auto; width: 100%; bottom: 0px; }
 
-.footer { background-image: url("../images/pattern1.png"); padding-top: 31px; bottom: 0; clear: both; margin-top: auto; width: 100%; bottom: 0px; }
+.footer { padding-top: 93px; bottom: 0; clear: both; margin-top: auto; width: 100%; bottom: 0px; }
+
+.footer p { color: #A3BFA8; }
 
 img { width: 100%; height: auto; }
 
 nav.main-nav { margin-top: 31px; }
 
-nav.main-nav ul { margin: 0px; padding: 0px; list-style: none; }
+nav.main-nav ul { margin: 0px; padding: 0px; list-style: none; list-style-type: none; float: right; overflow: hidden; }
 
-nav.main-nav li, nav.main-nav a { display: inline-block; }
+nav.main-nav li { display: inline-block; }
 
-nav.main-nav li a { padding: 10px; }
+nav.main-nav a { padding: 10px; }
+
+nav.main-nav li a { display: block; }
+
+nav.name { float: left; }
 
 a { font-weight: 600; color: #BE6E46; text-decoration: none; }
 
-a.active { font-weight: 600; }
-
-.footnotes { margin-top: 50px; color: #395C6B; }
+.footnotes { margin-top: 62px; color: #395C6B; }
 
 .footer { color: #395C6B; }
 
