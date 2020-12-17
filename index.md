@@ -18,7 +18,7 @@ Bringing the power, safety and speed of a P2P internet to everyone
 
 &nbsp;
 
-![](assets/images/ipfs-card.png)
+![](assets/images/siemens-card.png)
 
 #### [Siemens Atlas of Digitalisation](siemens.html)
 
