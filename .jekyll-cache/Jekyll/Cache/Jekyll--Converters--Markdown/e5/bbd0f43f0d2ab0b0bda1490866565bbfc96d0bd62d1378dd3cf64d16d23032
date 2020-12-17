@@ -1,31 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>IPFS Mobile Design Guidelines - </title>
-    <link rel="stylesheet" href="assets/css/main.css">
-    <link rel="shortcut icon" type="images/png" href="favicon-16x16.png">
-</head>
-<body>
-
-<div class="container">
-    <div class="content">
-
-    <nav class="main-nav">
-    <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="faq.html">FAQ</a></li>
-        <li><a href="talks.html">Talks</a></li>
-        <!-- <li><a href="now.html" >Now</a></li> -->
-        <!-- <li><a href="blog.html" >Blog</a></li> -->
-        <li><a href="mailto:jim@jimkosem.com">Email</a></li>
-        <li><a href="https://www.linkedin.com/in/jkosem/" target="_blank">CV</a></li>
-    </ul>
-</nav>
-
-
-    <h1 id="ipfs-mobile-design-guidelines">IPFS Mobile Design Guidelines</h1>
+I"<h1 id="ipfs-mobile-design-guidelines">IPFS Mobile Design Guidelines</h1>
 
 <p>Based on the work started at <a href="https://protocol.ai/" target="_blank">Protocol Labs</a> with the <a href="https://protocol-labs.gitbook.io/ipfs-mobile-design-guide/" target="_blank">IPFS Browser Design Guidelines</a>, we then moved on to bringing a safer, faster Peer-to-Peer (P2P) Internet to everyone with a smartphone.</p>
 
@@ -48,19 +21,4 @@
 <p><img src="assets/images/IPFS-mobile-scenarios.png" alt="IPFS Mobile Design Guidelines Scenarios" /></p>
 
 <p>Following the Principles we then created <a href="https://protocol-labs.gitbook.io/ipfs-mobile-design-guide/design/scenarios" target="_blank">Scenarios</a> to help designers and developers with situations they are likely to encounter when creating mobile apps and services for IPFS. The scenarios include onboarding, sharing through the mobile OS, sending large files, offline media and identity management.</p>
-
-
-</div>
-
-<div class="footer">
-    <div class="content">
-        <p>The whole site is open source and available on Github in the repo <a href="https://github.com/jkosem/jk-portfolio">here</a>. Mind the license and give credit where it's due.</p>
-        <p>&copy; Copyright 2020 Jim Kosem</p>
-    </div>
-</div>
-
-
-</div>
-
-</body>
-</html>
+:ET
