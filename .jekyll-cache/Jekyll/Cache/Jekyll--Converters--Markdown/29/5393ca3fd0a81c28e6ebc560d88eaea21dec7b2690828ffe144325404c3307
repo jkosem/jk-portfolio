@@ -1,29 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>Jim Kosem: Design, strategy & research - </title>
-    <link rel="stylesheet" href="assets/css/main.css">
-    <link rel="shortcut icon" type="images/png" href="favicon-16x16.png">
-</head>
-<body>
-
-<div class="container">
-    <div class="content">
-
-    <nav class="main-nav">
-    <span class="name"><a href="index.html">Jim Kosem</a></span>
-    <ul>
-        <li><a href="faq.html">FAQ</a></li>
-        <li><a href="talks.html">Talks</a></li>
-        <li><a href="mailto:jim@jimkosem.com">Email</a></li>
-        <li><a href="https://www.linkedin.com/in/jkosem/" target="_blank">CV</a></li>
-    </ul>
-</nav>
-
-
-    <h1 id="design-research--strategy">Design, research &amp; strategy</h1>
+I"4<h1 id="design-research--strategy">Design, research &amp; strategy</h1>
 
 <p>Hi, I’m Jim and I work across design, research and strategy. I make emerging technologies practical realities, design systems that are liveable for everyone and help culture fit into our lives today and in the future. To find out more about the specifics, you might want to check out the <a href="faq.html">FAQ</a>. Below are a few examples of what all of this looks like.</p>
 
@@ -76,20 +51,4 @@
 
 
 </ul> -->
-
-
-</div>
-
-<div class="footer">
-    <div class="content">
-        <p>The whole site is open source and available on Github in the repo <a href="https://github.com/jkosem/jk-portfolio">here</a>.<br>
-        Mind the license and give credit where it's due.</p>
-        <p>&copy; Copyright 2020 Jim Kosem</p>
-    </div>
-</div>
-
-
-</div>
-
-</body>
-</html>
+:ET
