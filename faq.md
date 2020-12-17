@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Jim Kosem's portfolio"
+title: "Jim Kosem: FAQ"
 <!-- permalink: /faq/ -->
 ---
 

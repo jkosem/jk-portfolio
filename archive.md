@@ -1,9 +1,15 @@
 ---
 layout: default
-title:  "More..."
+title:  "Jim Kosem: Archive"
 author: Jim
 ---
 
 # Archive
 
-There will be cards and some text like on the index.
+![](assets/images/IPFS-browser-card.png)
+
+#### [IPFS Mobile Browser guidelines](ipfs-browser.html)
+
+Designing how to use a faster, safer, and more open Web
+
+&nbsp;

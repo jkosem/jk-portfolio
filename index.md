@@ -18,14 +18,6 @@ Bringing the power, safety and speed of a P2P internet to everyone
 
 &nbsp;
 
-![](assets/images/IPFS-browser-card.png)
-
-#### [IPFS Mobile Browser guidelines](ipfs-browser.html)
-
-Designing how to use a faster, safer, and more open Web
-
-&nbsp;
-
 ![](assets/images/Siemens-card.png)
 
 #### [Siemens Atlas of Digitalisation](siemens.html)

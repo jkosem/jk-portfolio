@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Jim Kosem: Design, strategy & research"
+title: "Jim Kosem: Talks"
 ---
 
 # Talks, seminars & exhibitions
