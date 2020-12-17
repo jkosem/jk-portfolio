@@ -33,4 +33,4 @@ This guy has a good post on [How to Make a Jekyll Site/Blog](https://brianm.me/p
 
 I nicked a lot of things on how to do posts from [here](https://www.section.io/engineering-education/build-a-jekyll-site/).
 
-I'm rubbish at doing menus properly from memory, so [the classic float menu at W3C] (https://www.w3schools.com/Css/css_navbar_horizontal.asp)
+I'm rubbish at doing menus properly from memory, so [the classic float menu at W3C](https://www.w3schools.com/Css/css_navbar_horizontal.asp)
