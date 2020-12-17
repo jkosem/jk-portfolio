@@ -6,21 +6,21 @@ author: Jim
 
 # Bastion
 
-![](assets/images/Bastion-screens1.png)
+![](assets/images/bastion-screens1.png)
 
 Bastion is a platform where the reader can choose how they want to read, choosing either a point of view...
 
-![](assets/images/Bastion-screens2.png)
+![](assets/images/bastion-screens2.png)
 
 ...or time, or location on a map.
 
 There is a content management system where authors and editors can work together to publish on the Bastion platform, creating successive versions of their books which they can keep on expanding and growing in points of view, times and locations. This publishes to the mobile app available on the iOS App Store.
 
-![](assets/images/Bastion-admin1.png)
+![](assets/images/bastion-admin1.png)
 
 We've also been working on analytics for the platform, designing a way to see what works for readers and how, looking at how well read each scene, point of view, etc. are.
 
-![](assets/images/Bastion-admin2.png)
+![](assets/images/bastion-admin2.png)
 
 Bastion is a publishing platform you can read and provide books in incredibly readable slices on mobile devices.
 

@@ -10,7 +10,7 @@ Hi, I'm Jim and I work across design, research and strategy. I make emerging tec
 
 &nbsp;
 
-![](assets/images/IPFS-mobile-card.png)
+![](assets/images/ipfs-mobile-card.png)
 
 #### [IPFS Mobile Design guidelines](ipfs-mobile.html)
 
@@ -18,7 +18,7 @@ Bringing the power, safety and speed of a P2P internet to everyone
 
 &nbsp;
 
-![](assets/images/Siemens-card.png)
+![](assets/images/ipfs-card.png)
 
 #### [Siemens Atlas of Digitalisation](siemens.html)
 
@@ -26,7 +26,7 @@ Visualising improving the quality of urban living
 
 &nbsp;
 
-![](assets/images/Sommelier-card.png)
+![](assets/images/sommelier-card.png)
 
 #### [Sommelier](sommelier.html)
 
@@ -34,7 +34,7 @@ Helping you watch TV well
 
 &nbsp;
 
-![](assets/images/Bastion-card.png)
+![](assets/images/bastion-card.png)
 
 #### [Bastion](bastion.html)
 

@@ -11,7 +11,7 @@ title: "Jim Kosem: Talks"
 
 2 July 2018 - UsTwo "Narrativeability and Experience Design" (London, UK)
 
-23 Febr 2018 - Facebook "Narrativeability and Mixed Reality" (London, UK)
+23 Feb 2018 - Facebook "Narrativeability and Mixed Reality" (London, UK)
 
 22 May 2017 - Digital Heritage ‘Big’ Data Hacking and Visualisation (London, UK)
 
