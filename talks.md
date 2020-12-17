@@ -3,11 +3,11 @@ layout: default
 title: "Jim Kosem: Design, strategy & research"
 ---
 
-# Talks, seminars and exhibitions
+# Talks, seminars & exhibitions
 
-2-7 Feb 2020 IxDA 2020 (Milan, ITA)
+2-7 Feb 2020 - IxDA 2020 (Milan, ITA)
 
-26 June 2019 - Ethereum London keynote “Designers, Toasters and Blockchain”
+26 June 2019 - Ethereum London keynote “Designers, Toasters and Blockchain” (London, UK)
 
 2 July 2018 - UsTwo "Narrativeability and Experience Design" (London, UK)
 

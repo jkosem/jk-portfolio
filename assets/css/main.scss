@@ -2,13 +2,6 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-// color palette here https://coolors.co/be6e46-cde7b0-395c6b-80a4ed-a3bfa8
-// Brown Sugar #BE6E46
-// Tea Green #CDE7B0
-// Deep Space Sparkle #395C6B
-// Little Boy Blue #80A4ED
-// Cambridge Blue #A3BFA8
-
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700;900&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700;900&display=swap');
@@ -21,21 +14,15 @@ $font-body: 'Source Sans Pro', sans-serif;
 $font-display: 'Roboto Slab', serif;
 
 /* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {
-    body {
-        // background-color: #23334E;
-    }
+@media only screen and (min-width: 768px){
     .content {
-        // width:600px;
-        // min-height: 100vh;
         margin: auto;
         padding-bottom: 23px;
-        margin-left: 200px;
-        margin-right: 200px;
-        // max-width: 560px;
+        margin-left: 300px;
+        margin-right: 300px;
+        max-width: 760px;
     }
 }
-
 
 html {
     position:relative;
@@ -46,8 +33,6 @@ html, .root {
     line-height: 33px;
 }
 body {
-    background: $backgroundColor;
-    color: $bodyColor;
     font-family: $font-body;
     font-size: 1em;
     line-height: 1.65em;
@@ -67,15 +52,31 @@ h2, h3 {
     overflow:hidden;
     margin: 0 auto;
     height:100%;
+    align-items: center;
 }
 .content {
-    // margin: auto;
-    // padding-bottom: 23px;
-    // margin-left: 200px;
-    // margin-right: 200px;
-    // max-width: 560px;
     height: 100%;
 }
+
+// hr {
+//   padding: 0;
+//   border: none;
+//   border-top: medium double #8c8c8c;
+//   color: #395C6B;
+//   text-align: center;
+//   margin-top: 62px;
+//   margin-bottom: 61px;
+// }
+// hr:after {
+//   content: "§";
+//   display: inline-block;
+//   position: relative;
+//   top: -0.7em;
+//   font-size: 1.5em;
+//   padding: 0 0.25em;
+//   background: #fff;
+// }
+
 .subfooter {
     // background-color: #F5FAF0;
     padding-top: 31px;
@@ -86,7 +87,7 @@ h2, h3 {
     bottom:0px;
 }
 .footer {
-    // background-color: #CDE7B0;
+    background-color: #EBF5E0;
     // background-image: url("../images/pattern1.png");
     padding-top: 93px;
     bottom: 0;
@@ -102,7 +103,6 @@ h2, h3 {
 img {
   width: 100%;
   height: auto;
-  // margin-bottom: 1.65em;
 }
 
 nav.main-nav {
@@ -120,7 +120,6 @@ nav.main-nav li {
     display: inline-block;
 }
 nav.main-nav a {
-    // display: block;
     padding: 10px;
 }
 nav.main-nav li a {

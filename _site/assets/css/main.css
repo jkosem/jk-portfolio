@@ -2,25 +2,25 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700;900&display=swap");
 @import url("type.css");
 /* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) { .content { margin: auto; padding-bottom: 23px; margin-left: 200px; margin-right: 200px; } }
+@media only screen and (min-width: 768px) { .content { margin: auto; padding-bottom: 23px; margin-left: 300px; margin-right: 300px; max-width: 760px; } }
 
 html { position: relative; min-height: 100%; }
 
 html, .root { font-size: 20px; line-height: 33px; }
 
-body { background: #F5FAF0; color: #395C6B; font-family: "Source Sans Pro", sans-serif; font-size: 1em; line-height: 1.65em; }
+body { font-family: "Source Sans Pro", sans-serif; font-size: 1em; line-height: 1.65em; }
 
 h1, h2, h3 { font-family: "Roboto Slab", serif; font-weight: 900; }
 
 h2, h3 { font-family: "Roboto Slab", serif; font-weight: 700; }
 
-.container { background-color: #fff; overflow: hidden; margin: 0 auto; height: 100%; }
+.container { background-color: #fff; overflow: hidden; margin: 0 auto; height: 100%; align-items: center; }
 
 .content { height: 100%; }
 
 .subfooter { padding-top: 31px; bottom: 0; clear: both; margin-top: auto; width: 100%; bottom: 0px; }
 
-.footer { padding-top: 93px; bottom: 0; clear: both; margin-top: auto; width: 100%; bottom: 0px; }
+.footer { background-color: #EBF5E0; padding-top: 93px; bottom: 0; clear: both; margin-top: auto; width: 100%; bottom: 0px; }
 
 .footer p { color: #A3BFA8; }
 
