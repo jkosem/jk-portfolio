@@ -1,28 +1,12 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-<head>
+  <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <title>{{ page.title }} - {{ site.title }}</title>
-
-    <!-- <link rel="stylesheet" href="{{ "assets/css/main.css" | relative_url }}"> -->
-    <link rel="stylesheet" href="{{ root_url }}assets/css/main.css">
-
-    <link rel="shortcut icon" type="images/png" href="favicon-16x16.png">
-</head>
-<body>
-    <nav class="main-nav">
-        <ul>
-            <li><a href="index.html" {% if page.url == "index.html" %}class="active"{% endif %}>Home</a></li>
-            <li><a href="faq.html" {% if page.url == "faq.html" %}class="active"{% endif %}>FAQ</a></li>
-            <li><a href="now.html" {% if page.url == "now.html" %}class="active"{% endif %}>Now</a></li>
-            <li><a href="blog.html" {% if page.url == "blog.html" %}class="active"{% endif %}>Blog</a></li>
-            <li><a href="mailto:jim@jimkosem.com">Email</a></li>
-            <li><a href="https://www.linkedin.com/in/jkosem/" target="_blank">CV</a></li>
-        </ul>
-    </nav>
-
-    {{ content}}
-
-</body>
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  </head>
+  <body>
+    {{ content }}
+  </body>
 </html>
