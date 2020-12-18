@@ -10,7 +10,7 @@ Hi, I'm Jim and I work across design, research and strategy. I make emerging tec
 
 &nbsp;
 
-![](assets/images/ipfs-mobile-card.png)
+![]({{ site.baseurl }}/assets/images/ipfs-mobile-card.png)
 
 #### [IPFS Mobile Design guidelines](ipfs-mobile.html)
 
