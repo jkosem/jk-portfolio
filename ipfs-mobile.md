@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "IPFS Mobile Design Guidelines"
+title: "IPFS Mobile Design Guidelines"
 author: Jim
 ---
 

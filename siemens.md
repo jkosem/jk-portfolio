@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Siemens"
+title: "Siemens"
 author: Jim
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Sommelier"
+title: "Sommelier"
 author: Jim
 ---
 

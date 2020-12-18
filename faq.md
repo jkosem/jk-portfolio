@@ -22,6 +22,6 @@ I work on products and services with impact and scale like government, a fairer 
 
 #### You have quite a broad experience. Don't you think you should stick with one thing?
 
-Not really. Generalists have the advantage of being able to see problems and solutions from many angles and from many experiences. Solutions are never simple, so how we look at and try to solve shouldn't be either.
+Not really. Generalists have the advantage of being able to see problems and solutions from many angles and from many experiences. Solutions are never simple, so how we look at and try to solve them shouldn't be either.
 
 Design should be a very broad practice, calling upon all the ways we can think of and use to solve our world's problems. Sometime a well written sentence can do the job of an entire application. Sometimes a well placed conversation can change some policy which can do more for positive change than any amount of software design.
