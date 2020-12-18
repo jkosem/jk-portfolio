@@ -18,7 +18,7 @@ Bringing the power, safety and speed of a P2P internet to everyone
 
 &nbsp;
 
-![]({{site.github.url}}assets/images/siemens-card.png)
+![]({{site.url}}assets/images/siemens-card.png)
 
 #### [Siemens Atlas of Digitalisation](siemens.html)
 
@@ -26,7 +26,7 @@ Visualising improving the quality of urban living
 
 &nbsp;
 
-![](assets/images/sommelier-card.png)
+![]({{site.url}}assets/images/sommelier-card.png)
 
 #### [Sommelier](sommelier.html)
 
@@ -34,7 +34,7 @@ Helping you watch TV well
 
 &nbsp;
 
-![](assets/images/bastion-card.png)
+![]({{site.url}}assets/images/bastion-card.png)
 
 #### [Bastion](bastion.html)
 

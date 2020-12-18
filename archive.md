@@ -6,7 +6,7 @@ author: Jim
 
 # Archive
 
-![](assets/images/ipfs-browser-card.png)
+![]({{site.url}}assets/images/ipfs-browser-card.png)
 
 #### [IPFS Mobile Browser guidelines](ipfs-browser.html)
 
