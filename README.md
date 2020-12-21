@@ -36,3 +36,5 @@ This guy has a good post on [How to Make a Jekyll Site/Blog](https://brianm.me/p
 I nicked a lot of things on how to do posts from [here](https://www.section.io/engineering-education/build-a-jekyll-site/).
 
 I'm rubbish at doing menus properly from memory, so [the classic float menu at W3C](https://www.w3schools.com/Css/css_navbar_horizontal.asp)
+
+This tutorial on [How to Set up GoDaddy Domain with GitHub Pages](https://hackernoon.com/how-to-set-up-godaddy-domain-with-github-pages-a9300366c7b) worked like a charm. It took a bit (2 hours?) for the HTTPS to update, but once that was done it was cool.
