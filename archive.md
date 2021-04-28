@@ -30,14 +30,6 @@ Designing how to use bank and credit cards to buy crypto assets
 
 &nbsp;
 
-![]({{site.url}}assets/images/homeoffice-card.png)
-
-#### [Home Office Single Intelligence Platform](homeoffice-sip.html)
-
-Platform to investigate and fight border crime and terrorism
-
-&nbsp;
-
 ![]({{site.url}}assets/images/mylens-card.png)
 
 #### [MyLens](mylens.html)
