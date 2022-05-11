@@ -38,3 +38,5 @@ I nicked a lot of things on how to do posts from [here](https://www.section.io/e
 I'm rubbish at doing menus properly from memory, so [the classic float menu at W3C](https://www.w3schools.com/Css/css_navbar_horizontal.asp)
 
 This tutorial on [How to Set up GoDaddy Domain with GitHub Pages](https://hackernoon.com/how-to-set-up-godaddy-domain-with-github-pages-a9300366c7b) worked like a charm. It took a bit (2 hours?) for the HTTPS to update, but once that was done it was cool.
+
+[This page](https://jhooq.com/github-permission-denied-publickey/) showed how to sort out the SSH keys thing fairly easily.
