@@ -6,14 +6,6 @@ author: Jim
 
 # Archive
 
-![]({{site.url}}assets/images/ipfs-browser-card.png)
-
-#### [IPFS Browser Design Guidelines](ipfs-browser.html)
-
-Designing how to use a faster, safer, and more open Web
-
-&nbsp;
-
 ![]({{site.url}}assets/images/hummingbot-card.png)
 
 #### [Hummingbot](hummingbot.html)
@@ -35,6 +27,14 @@ Designing how to use bank and credit cards to buy crypto assets
 #### [MyLens](mylens.html)
 
 Securing and controlling your personal data and data markets
+
+&nbsp;
+
+![]({{site.url}}assets/images/sommelier-card.png)
+
+#### [Sommelier](sommelier.html)
+
+Helping you watch TV well
 
 &nbsp;
 
