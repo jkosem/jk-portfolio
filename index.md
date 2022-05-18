@@ -18,7 +18,7 @@ Bringing the power, safety and speed of a P2P internet to everyone
 
 &nbsp;
 
-[![IPFS Browser Design Guidelines]({{site.url}}assets/images/ipfs-browser-card.png)](ipfs-browser.html)
+[![IPFS Browser Design Guidelines]({{site.url}}assets/images/ipfs-browser-card.png)(ipfs-browser.html)]
 
 #### [IPFS Browser Design Guidelines](ipfs-browser.html)
 
