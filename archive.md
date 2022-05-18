@@ -30,7 +30,7 @@ Securing and controlling your personal data and data markets
 
 &nbsp;
 
-[![Sommelier]({{site.url}}assets/images/sommelier-card.png)(sommelier.html)
+[![Sommelier]({{site.url}}assets/images/sommelier-card.png)](sommelier.html)
 
 #### [Sommelier](sommelier.html)
 
@@ -54,7 +54,7 @@ A system to build operating systems
 
 &nbsp;
 
-[]![Ministry of Justice Civil Legal Aid]({{site.url}}assets/images/moj-cla-card.png)](moj-cla.html)
+[![Ministry of Justice Civil Legal Aid]({{site.url}}assets/images/moj-cla-card.png)](moj-cla.html)
 
 #### [Ministry of Justice Civil Legal Aid](moj-cla.html)
 
