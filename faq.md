@@ -8,7 +8,7 @@ title: "Jim Kosem: FAQ"
 
 #### How do you say in a sentence what you do?
 
-I design products and services with impact and scale from government, a fairer and more secure internet to reinventing what used to be email.
+I design products and services with impact and scale from government, a fairer and more secure internet to reinventing email.
 
 #### What do you call yourself exactly?
 
