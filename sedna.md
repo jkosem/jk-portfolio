@@ -8,7 +8,7 @@ author: Jim
 
 [SEDNA](https://www.sedna.com) is a scale-up, venture capital funded company solving team communications at scale. I was originally hired freelance to help with [category design](https://en.wikipedia.org/wiki/Category_design) work defining how to redesign email and high volume communications. This particular work is not able to be shown.
 
-I was then hired full-time as a Senior Designer and led the first work in the company to establish a user-centred research and design practice. Most of my work at SEDNA has been about building the team, practice and processes to take an unintuitive interface requiring days of training and potential weeks of support to a more user-friendly and powerful enterprise application for users.
+Most of my work at SEDNA has been about building the team, practice and processes to take an unintuitive interface requiring days of training and potential weeks of support to a more user-friendly and powerful enterprise application for users.
 
 * Helped hire an entire design team of 8, 4 interaction and 3 interface designers, including a interface design lead
 * Performed design advocacy and introduced a culture of user-centred design
