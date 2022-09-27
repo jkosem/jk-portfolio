@@ -14,9 +14,15 @@ DeepWork was tasked with taking an algorithmic trading platform from command lin
 
 The work presented numerous challenges, including how to help users understand building and deploying bots and developing and collaborating on financial strategies. We collaborated on and co-created a solution where the user could not only setup and manage bots that would do crypto trades for them, but could also publish these bots.
 
-![]({{site.url}}assets/images/hummingbot-1.png)
-
 We validated the product and features before a costly building phase, conducted user testing and quickly learned if the team was on the right path.
+
+![]({{site.url}}assets/images/hummingbot-workshop1.png)
+
+![]({{site.url}}assets/images/hummingbot-workshop2.png)
+
+![]({{site.url}}assets/images/hummingbot-workshop3.png)
+
+![]({{site.url}}assets/images/hummingbot-1.png)
 
 ![]({{site.url}}assets/images/hummingbot-2.png)
 
