@@ -6,7 +6,7 @@ author: Jim
 
 # SEDNA
 
-[SEDNA](https://www.sedna.com) is a scale-up, venture capital funded company solving team communications at scale. I was originally hired freelance to help with [category design](https://en.wikipedia.org/wiki/Category_design) work defining how to redesign email and high volume communications. This particular work is not able to be shown.
+[SEDNA](https://www.sedna.com) is a scale-up, venture capital funded company solving team communications at scale. I began work with SEDNA freelance to help with [category design](https://en.wikipedia.org/wiki/Category_design) (not able to be shown) defining how to redesign email and high volume communications. This then laid out the need for a full-time position, initially as a senior designer and then as a design lead.
 
 Most of my work at SEDNA has been about building the team, practice and processes to take an unintuitive interface requiring days of training and potential weeks of support to a more user-friendly and powerful enterprise application for users.
 
