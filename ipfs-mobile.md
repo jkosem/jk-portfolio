@@ -18,16 +18,20 @@ The research formed the basis to the design which served to further explore and 
 
 ## Principles
 
-![IPFS Mobile Design Guidelines Principles]({{site.url}}assets/images/ipfs-mobile-cheat-sheet.png)
+We developed a number of [Principles](https://protocol-labs.gitbook.io/ipfs-mobile-design-guide/design/principles){:target="_blank"} for designing for IPFS. These are suggestions for designers and developers of what to think about when building their apps and services on IPFS.
 
 ![IPFS Mobile Design Guidelines Principles]({{site.url}}assets/images/ipfs-mobile-principles.png)
 
-We developed a number of [Principles](https://protocol-labs.gitbook.io/ipfs-mobile-design-guide/design/principles){:target="_blank"} for designing for IPFS. These are suggestions for designers and developers of what to think about when building their apps and services on IPFS.
+![IPFS Mobile Design Guidelines Principles]({{site.url}}assets/images/ipfs-mobile-cheat-sheet.png)
 
 ## Scenarios
 
-![IPFS Mobile Design Guidelines Scenarios]({{site.url}}assets/images/ipfs-mobile-scenarios.png)
+Following the Principles we then created [Scenarios](https://protocol-labs.gitbook.io/ipfs-mobile-design-guide/design/scenarios){:target="_blank"} to help designers and developers with situations they are likely to encounter when creating mobile apps and services for IPFS. The scenarios include onboarding, sharing through the mobile OS, sending large files, offline media and identity management.
+
+Sharing a file on mobile with/without internet access
 
 ![IPFS Mobile Design Guidelines Scenarios]({{site.url}}assets/images/ipfs-mobile-scenarios2.png)
 
-Following the Principles we then created [Scenarios](https://protocol-labs.gitbook.io/ipfs-mobile-design-guide/design/scenarios){:target="_blank"} to help designers and developers with situations they are likely to encounter when creating mobile apps and services for IPFS. The scenarios include onboarding, sharing through the mobile OS, sending large files, offline media and identity management.
+Large file sent to other user with/without internet access
+
+![IPFS Mobile Design Guidelines Scenarios]({{site.url}}assets/images/ipfs-mobile-scenarios.png)
