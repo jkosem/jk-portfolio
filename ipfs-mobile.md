@@ -6,7 +6,7 @@ author: Jim
 
 # IPFS Mobile Design Guidelines
 
-Based on the work started at [Protocol Labs](https://protocol.ai/){:target="_blank"} with the [IPFS Browser Design Guidelines](https://protocol-labs.gitbook.io/ipfs-mobile-design-guide/){:target="_blank"}, we then moved on to bringing a safer, faster Peer-to-Peer (P2P) Internet to everyone with a smartphone.
+Based on the work started at [Protocol Labs](https://protocol.ai/){:target="_blank"} with the [IPFS Browser Design Guidelines](ipfs-browser), we then moved on to bringing a safer, faster Peer-to-Peer (P2P) Internet to everyone with a smartphone.
 
 ![]({{site.url}}assets/images/ipfs.png)
 
@@ -17,6 +17,8 @@ To create that level of clarity, designers and developers need clear guidelines 
 The research formed the basis to the design which served to further explore and define how IPFS should be used in a mobile context. This was done by first establishing design principles which then informed and gave shape to a number of design scenarios which further illustrate how IPFS should work for people on their smartphones today.
 
 ## Principles
+
+![IPFS Mobile Design Guidelines Principles]({{site.url}}assets/images/ipfs-mobile-cheat-sheet.png)
 
 ![IPFS Mobile Design Guidelines Principles]({{site.url}}assets/images/ipfs-mobile-principles.png)
 
