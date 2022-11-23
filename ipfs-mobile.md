@@ -28,4 +28,6 @@ We developed a number of [Principles](https://protocol-labs.gitbook.io/ipfs-mobi
 
 ![IPFS Mobile Design Guidelines Scenarios]({{site.url}}assets/images/ipfs-mobile-scenarios.png)
 
+![IPFS Mobile Design Guidelines Scenarios]({{site.url}}assets/images/ipfs-mobile-scenarios2.png)
+
 Following the Principles we then created [Scenarios](https://protocol-labs.gitbook.io/ipfs-mobile-design-guide/design/scenarios){:target="_blank"} to help designers and developers with situations they are likely to encounter when creating mobile apps and services for IPFS. The scenarios include onboarding, sharing through the mobile OS, sending large files, offline media and identity management.
