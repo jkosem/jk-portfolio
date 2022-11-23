@@ -22,14 +22,6 @@ Designing how to use bank and credit cards to buy crypto assets
 
 &nbsp;
 
-[![MyLens]({{site.url}}assets/images/mylens-card.png)](mylens.html)
-
-#### [MyLens](mylens.html)
-
-Securing and controlling your personal data and data markets
-
-&nbsp;
-
 [![Sommelier]({{site.url}}assets/images/sommelier-card.png)](sommelier.html)
 
 #### [Sommelier](sommelier.html)

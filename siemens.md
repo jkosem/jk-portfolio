@@ -20,7 +20,7 @@ For Signal-Noise (part of the The Economist Group) I worked on the user experien
 
 ![]({{site.url}}assets/images/siemens-wireframe-4.png)
 
-[Tomás Louro](https://www.linkedin.com/in/tomás-louro-573a5846/) designed the final UI
+[Tomás Louro](https://www.linkedin.com/in/tomás-louro-573a5846/) designed the final UI.
 
 ![]({{site.url}}assets/images/siemens-2.jpg)
 
