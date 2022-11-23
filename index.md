@@ -6,7 +6,7 @@ permalink: /index
 
 # Design, research & strategy
 
-Hi, I'm Jim and I work across design, research and strategy. I design systems that are liveable, make emerging technologies practical realities and create ways of culture fitting into our lives today and in the future. To find out more about the specifics, you might want to check out the [FAQ](faq.html). Below are a few examples of what all of this looks like.
+Hi, I'm Jim and I work across design, research and strategy. I design systems that are liveable, make emerging technologies practical realities and create ways of culture fitting into our lives. To find out more about the specifics, you might want to look at the [FAQ](faq.html). Below are a few examples of what all of this looks like, and there is more in the [archive](archive.html).
 
 &nbsp;
 
