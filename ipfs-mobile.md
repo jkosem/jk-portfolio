@@ -16,17 +16,19 @@ To create that level of clarity, designers and developers need clear guidelines 
 
 The research formed the basis to the design which served to further explore and define how IPFS should be used in a mobile context. This was done by first establishing design principles which then informed and gave shape to a number of design scenarios which further illustrate how IPFS should work for people on their smartphones today.
 
+The GitBook documentation is currently down, but viewable on [GitHub](https://github.com/ipfs/mobile-design-guidelines)
+
 ## Principles
 
-We developed a number of [Principles](https://protocol-labs.gitbook.io/ipfs-mobile-design-guide/design/principles){:target="_blank"} for designing for IPFS. These are suggestions for designers and developers of what to think about when building their apps and services on IPFS.
-
-![IPFS Mobile Design Guidelines Principles]({{site.url}}assets/images/ipfs-mobile-principles.png)
+We developed a number of Design Principles for designing for IPFS. These are suggestions for designers and developers of what to think about when building their apps and services on IPFS.
 
 ![IPFS Mobile Design Guidelines Principles]({{site.url}}assets/images/ipfs-mobile-cheat-sheet.png)
 
+![IPFS Mobile Design Guidelines Principles]({{site.url}}assets/images/ipfs-mobile-principles.png)
+
 ## Scenarios
 
-Following the Principles we then created [Scenarios](https://protocol-labs.gitbook.io/ipfs-mobile-design-guide/design/scenarios){:target="_blank"} to help designers and developers with situations they are likely to encounter when creating mobile apps and services for IPFS. The scenarios include onboarding, sharing through the mobile OS, sending large files, offline media and identity management.
+Following the Principles we then created Design Scenarios to help designers and developers with situations they are likely to encounter when creating mobile apps and services for IPFS. The scenarios include onboarding, sharing through the mobile OS, sending large files, offline media and identity management. Below are two examples:
 
 Sharing a file on mobile with/without internet access
 
