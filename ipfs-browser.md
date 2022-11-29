@@ -4,8 +4,6 @@ title: "IPFS Browser Design Guidelines"
 author: Jim
 ---
 
-{% include backtoarchive.html %}
-
 # IPFS Browser Design Guidelines
 
 The [InterPlanetary File System](https://ipfs.io/){:target="_blank"} (IPFS) is a way to have an safer, faster, freer Internet. This new internet lives without central servers or centralised control through a protocol and peer-to-peer (P2P) network for storing and sharing data.

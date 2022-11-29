@@ -50,6 +50,14 @@ Making reading liveable in today's world
 
 &nbsp;
 
+[![Landscapes of (Re)Conquest]({{site.url}}assets/images/landscapes-card.png)](landscapesofreconquest.html)
+
+#### [Landscapes of (Re)Conquest](landscapesofreconquest.html)
+
+Recreating a historical experience through wine and Augmented Reality
+
+&nbsp;
+
 [More projects here...](archive.html)
 
 &nbsp;

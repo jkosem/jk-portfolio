@@ -1,29 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>Jim Kosem: Design, strategy & research - </title>
-    <link rel="stylesheet" href="assets/css/main.css">
-    <link rel="shortcut icon" type="images/png" href="favicon-16x16.png">
-</head>
-<body>
-
-<div class="container">
-    <div class="content">
-
-    <nav class="main-nav">
-    <span class="name"><a href="index.html">Jim Kosem</a></span>
-    <ul>
-        <li><a href="faq.html">FAQ</a></li>
-        <li><a href="talks.html">Talks</a></li>
-        <li><a href="mailto:jim@jimkosem.com">Email</a></li>
-        <li><a href="https://www.linkedin.com/in/jkosem/" target="_blank">CV</a></li>
-    </ul>
-</nav>
-
-
-    <h1 id="design-research--strategy">Design, research &amp; strategy</h1>
+I"z	<h1 id="design-research--strategy">Design, research &amp; strategy</h1>
 
 <p>Hi, I’m Jim and I work across design, research and strategy. I design systems that are liveable, make emerging technologies practical realities and create ways of culture fitting into our lives. To find out more about the specifics, you might want to look at the <a href="faq.html">FAQ</a>. Below are a few examples of what all of this looks like, and there is more in the <a href="archive.html">archive</a>.</p>
 
@@ -69,9 +44,9 @@
 
 <p> </p>
 
-<p><a href="landscapesofreconquest.html"><img src="assets/images/landscapes-card.png" alt="Landscapes of (Re)Conquest" /></a></p>
+<p><a href="landscapesofreconquest.html"><img src="assets/images/landscapes-card.png" alt="Bastion" /></a></p>
 
-<h4 id="landscapes-of-reconquest"><a href="landscapesofreconquest.html">Landscapes of (Re)Conquest</a></h4>
+<h4 id="bastion-1"><a href="landscapesofreconquest.html">Bastion</a></h4>
 
 <p>Recreating a historical experience through wine and Augmented Reality</p>
 
@@ -92,19 +67,4 @@
 
 
 </ul> -->
-
-
-</div>
-
-<div class="footer">
-    <div class="content">
-        <p>The whole site is built in <a href="https://jekyllrb.com/">Jekyll</a>, open source and available on Github in the repo <a href="https://github.com/jkosem/jk-portfolio">here</a>. Mind the license and give credit where it's due.</p>
-        <p>&copy; Copyright 2022 Jim Kosem</p>
-    </div>
-</div>
-
-
-</div>
-
-</body>
-</html>
+:ET
