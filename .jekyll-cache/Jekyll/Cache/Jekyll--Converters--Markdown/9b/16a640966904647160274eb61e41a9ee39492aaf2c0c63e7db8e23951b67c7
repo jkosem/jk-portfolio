@@ -1,29 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>Landscapes of Reconquest - </title>
-    <link rel="stylesheet" href="assets/css/main.css">
-    <link rel="shortcut icon" type="images/png" href="favicon-16x16.png">
-</head>
-<body>
-
-<div class="container">
-    <div class="content">
-
-    <nav class="main-nav">
-    <span class="name"><a href="index.html">Jim Kosem</a></span>
-    <ul>
-        <li><a href="faq.html">FAQ</a></li>
-        <li><a href="talks.html">Talks</a></li>
-        <li><a href="mailto:jim@jimkosem.com">Email</a></li>
-        <li><a href="https://www.linkedin.com/in/jkosem/" target="_blank">CV</a></li>
-    </ul>
-</nav>
-
-
-    <h1 id="landscapes-of-reconquest">Landscapes of (Re)Conquest</h1>
+I"�<h1 id="landscapes-of-reconquest">Landscapes of (Re)Conquest</h1>
 
 <p><img src="assets/images/landscapes-title.png" alt="" /></p>
 
@@ -31,9 +6,10 @@
 
 <p>The interdisciplinary team for Landscapes of (Re)Conquest consists of interaction designers, software developers, archeologists, museum curators, historical content creators and archivists, tour guides and wine experts partnering with regional governments in Spain, France and various university partners.</p>
 
-<p><img src="assets/images/landscapes-visitormatrix.jpeg" alt="" /></p>
+<p><img src="assets/images/landscapes-visitormatrix.jpeg" alt="" /><br />
+<small>We are mapping the experience to support the land and it’s story by mixing experiences to bring you to understanding and that glass of wine.</small></p>
 
-<p>We’re looking at how to map out the experience for the AR to support the landscape, not dominate it. We want to get you to use the phone for invigorating your imagination, layering on information about the people and places, showing the visitor how life, politics and agriculture worked over time. And also get the user to that glass of wine.</p>
+<p>We’re looking at how to map out the experience for the AR to support the landscape, not dominate it. We want to get you to use the phone for invigorating your imagination, layering on information about the people and places, showing the visitor how life, politics and agriculture worked over time.</p>
 
 <p><img src="assets/images/landscapes-index.jpeg" alt="" /><br />
 <small>This is what the user first sees when loading up the mobile web app. It is important to the project that the experience is as accessible and easy to use as possible, so there is no platform specificity or downloads necessary.</small></p>
@@ -51,10 +27,10 @@
 <small>At this point the viewer has walked to stop 3, the winery, and their location is shown.</small></p>
 
 <p><img src="assets/images/landscapes-yourtour-selected.jpeg" alt="" /><br />
-<small>Here the viewer has selected stop 3, the Torre Winery.</small></p>
+<small>Here the viewer has selected stop 3, a winery.</small></p>
 
 <p><img src="assets/images/landscapes-ar.jpeg" alt="" /><br />
-<small>From the map view, the viewer has selected AR mode and sees stop 4, the castle, in Augmented Reality and can select (tap) items of interest to learn more about what they’re looking at, in this case viticulture in the landscape.</small></p>
+<small>From the map view, the viewer has selected AR mode and sees stop 4, the castle in Augmented Reality and can select items of interest to learn more about what they’re looking at, in this case viticulture in the landscape.</small></p>
 
 <p><img src="assets/images/landscapes-meshnetworks.jpeg" alt="" /></p>
 
@@ -73,19 +49,4 @@ Université de La Rochelle (France)<br />
 Acter Archeologie, Pézilla-la-Rivière (France)<br />
 UNESCO Geopark of Molina de Aragón – Alto Tajo (Spain)<br />
 Museum of the Order of St. John, London (UK)<br /></p>
-
-
-</div>
-
-<div class="footer">
-    <div class="content">
-        <p>The whole site is built in <a href="https://jekyllrb.com/">Jekyll</a>, open source and available on Github in the repo <a href="https://github.com/jkosem/jk-portfolio">here</a>. Mind the license and give credit where it's due.</p>
-        <p>&copy; Copyright 2022 Jim Kosem</p>
-    </div>
-</div>
-
-
-</div>
-
-</body>
-</html>
+:ET
