@@ -22,22 +22,22 @@ We’re looking at how to map out the experience for the AR to support the lands
 ![]({{site.url}}assets/images/landscapes-youarehere.jpg)<br />
 <small>In order to get started, the viewer needs to choose what they want to experience and where they’re starting from.</small>
 
-![]({{site.url}}assets/images/landscapes-yourtour-map1.jpeg)<br />
+![]({{site.url}}assets/images/landscapes-yourtour-map1.jpg)<br />
 <small>The user is then presented with a custom tour path with their interests laid out on the map</small>
 
-![]({{site.url}}assets/images/landscapes-yourtour-selected.jpeg)<br />
+![]({{site.url}}assets/images/landscapes-yourtour-selected.jpg)<br />
 <small>They can tap the number 3 Point of Interest (POI) and see the Torre Winery selected.</small>
 
-![]({{site.url}}assets/images/landscapes-yourtour-expanded.jpeg)<br />
+![]({{site.url}}assets/images/landscapes-yourtour-expanded.jpg)<br />
 <small>The user then taps the bottom information panel to learn more.</small>
 
-![]({{site.url}}assets/images/landscapes-yourtour-map2.jpeg)<br />
+![]({{site.url}}assets/images/landscapes-yourtour-map2.jpg)<br />
 <small>At this point the viewer has walked to stop 3, the winery, and their location is shown.</small>
 
-![]({{site.url}}assets/images/landscapes-ar.jpeg)<br />
+![]({{site.url}}assets/images/landscapes-ar.jpg)<br />
 <small>From the map view, the viewer has selected AR mode and sees stop 4, the castle, in Augmented Reality and can select (tap) items of interest to learn more about what they’re looking at, in this case viticulture in the landscape.</small>
 
-![]({{site.url}}assets/images/landscapes-meshnetworks.jpeg)
+![]({{site.url}}assets/images/landscapes-meshnetworks.jpg)
 
 Eventually we plan that the data of the Landscapes of (Re)Conquest experience will be provided to handset browsers by solar powered birdhouse servers. These will create a local, wifi mesh network providing the visitor with free, redundant content that ties the stories to the land where it took place.
 
