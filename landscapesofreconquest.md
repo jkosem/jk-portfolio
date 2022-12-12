@@ -12,27 +12,27 @@ Landscapes of (Re)Conquest is a journey though the history of the Iberian Penins
 
 The interdisciplinary team for Landscapes of (Re)Conquest consists of interaction designers, software developers, archeologists, museum curators, historical content creators and archivists, tour guides and wine experts partnering with regional governments in Spain, France and various university partners.
 
-![]({{site.url}}assets/images/landscapes-visitormatrix.jpeg)
+![]({{site.url}}assets/images/landscapes-visitormatrix.jpg)
 
 We’re looking at how to map out the experience for the AR to support the landscape, not dominate it. We want to get you to use the phone for invigorating your imagination, layering on information about the people and places, showing the visitor how life, politics and agriculture worked over time. And also get the user to that glass of wine.
 
-![]({{site.url}}assets/images/landscapes-index.jpeg)<br />
+![]({{site.url}}assets/images/landscapes-index.jpg)<br />
 <small>This is what the user first sees when loading up the mobile web app. It is important to the project that the experience is as accessible and easy to use as possible, so there is no platform specificity or downloads necessary.</small>
 
-![]({{site.url}}assets/images/landscapes-youarehere.jpeg)<br />
+![]({{site.url}}assets/images/landscapes-youarehere.jpg)<br />
 <small>In order to get started, the viewer needs to choose what they want to experience and where they’re starting from.</small>
 
 ![]({{site.url}}assets/images/landscapes-yourtour-map1.jpeg)<br />
 <small>The user is then presented with a custom tour path with their interests laid out on the map</small>
 
+![]({{site.url}}assets/images/landscapes-yourtour-selected.jpeg)<br />
+<small>They can tap the number 3 Point of Interest (POI) and see the Torre Winery selected.</small>
+
 ![]({{site.url}}assets/images/landscapes-yourtour-expanded.jpeg)<br />
-<small>They can read more about the winery they have chosen.</small>
+<small>The user then taps the bottom information panel to learn more.</small>
 
 ![]({{site.url}}assets/images/landscapes-yourtour-map2.jpeg)<br />
 <small>At this point the viewer has walked to stop 3, the winery, and their location is shown.</small>
-
-![]({{site.url}}assets/images/landscapes-yourtour-selected.jpeg)<br />
-<small>Here the viewer has selected stop 3, the Torre Winery.</small>
 
 ![]({{site.url}}assets/images/landscapes-ar.jpeg)<br />
 <small>From the map view, the viewer has selected AR mode and sees stop 4, the castle, in Augmented Reality and can select (tap) items of interest to learn more about what they’re looking at, in this case viticulture in the landscape.</small>
