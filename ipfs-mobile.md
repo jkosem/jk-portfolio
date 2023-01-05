@@ -16,7 +16,7 @@ To create that level of clarity, designers and developers need clear guidelines 
 
 The research formed the basis to the design which served to further explore and define how IPFS should be used in a mobile context. This was done by first establishing design principles which then informed and gave shape to a number of design scenarios which further illustrate how IPFS should work for people on their smartphones today.
 
-The GitBook documentation is currently down, but viewable on [GitHub](https://github.com/ipfs/mobile-design-guidelines)
+[IPFS Mobile Design Guidelines](https://jkosem.gitbook.io/ipfs-mobile-guidelines/) on GitBook
 
 ## Principles
 
