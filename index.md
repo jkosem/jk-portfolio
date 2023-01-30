@@ -4,7 +4,7 @@ title: "Jim Kosem: Design, strategy & research"
 permalink: /index
 ---
 
-# Design, research & strategy
+# Product design <br/> research & strategy
 
 Hi, I'm Jim and I work across design, research and strategy. I design systems that are liveable, make emerging technologies practical realities and create ways of culture fitting well into our lives.
 
