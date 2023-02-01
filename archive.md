@@ -14,6 +14,9 @@ Decentralised market making interface
 
 &nbsp;
 
+
+
+<!---
 [![Ramp Network]({{site.url}}assets/images/ramp-card.png)](ramp.html)
 
 #### [Ramp Network](ramp.html)
@@ -21,6 +24,8 @@ Decentralised market making interface
 Designing how to use bank and credit cards to buy crypto assets
 
 &nbsp;
+--->
+
 
 [![Sommelier]({{site.url}}assets/images/sommelier-card.png)](sommelier.html)
 
