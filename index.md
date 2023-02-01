@@ -14,6 +14,10 @@ I design systems that are liveable, make emerging technologies practical realiti
 
 To find out more about the specifics, you might want to look at the [FAQ](faq.html). Below are a few examples of what all of this looks like, and there is more in the [archive](archive.html).
 
+<div>
+        <img src="assets/images/logos.png" style="padding-top:33px;padding-bottom:33px;">
+    </div>
+
 &nbsp;
 
 [![SEDNA]({{site.url}}assets/images/sedna-card.png)](sedna.html)
@@ -68,11 +72,13 @@ Recreating a historical experience through wine and Augmented Reality
 
 &nbsp;
 
+<!---
 <div class="subfooter">
     <div>
         <img src="assets/images/logos.png" style="padding-top:33px;padding-bottom:33px;">
     </div>
 </div>
+--->
 
 <!-- <h4>What I'm up to lately</h4>
 <ul class="myposts">
