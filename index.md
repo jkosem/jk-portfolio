@@ -8,7 +8,7 @@ permalink: /index
 
 # Hi, I'm Jim
 
-## I design products, services and strategies with impact and scale
+## I design products, services and strategies with impact
 
 I research and design interactions and interfaces that are meaningful, systems that are liveable and make emerging technologies practical realities for the following organisations and more:
 
