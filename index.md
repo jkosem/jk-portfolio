@@ -8,15 +8,16 @@ permalink: /index
 
 # Hi, I'm Jim
 
-## I work across product and service design, research and strategy.
+## I design products and services using research and strategy.
 
-I design systems that are liveable, make emerging technologies practical realities and create ways of culture fitting well into our lives.
-
-To find out more about the specifics, you might want to look at the [FAQ](faq.html). Below are a few examples of what all of this looks like, and there is more in the [archive](archive.html).
+I design interactions and interfaces that are meaningful, systems that are liveable and make emerging technologies practical realities for the following organisations and more:
 
 <div>
-        <img src="assets/images/logos.png" style="padding-top:33px;padding-bottom:33px;">
-    </div>
+    <img src="assets/images/logos.png" style="padding-top:33px;padding-bottom:33px;">
+</div>
+
+To find out more about the specifics, you might want to look at the [FAQ](faq.html). Below are a 
+few examples of what all of this looks like, and there is more in the [archive](archive.html).
 
 &nbsp;
 
