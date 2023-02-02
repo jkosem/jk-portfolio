@@ -2,7 +2,7 @@
 layout: default
 title: "SEDNA"
 author: Jim
-tag: interaction design, service design, research, strategy
+tags: interaction, service, research, strategy
 ---
 
 # SEDNA

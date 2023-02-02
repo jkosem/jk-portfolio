@@ -4,8 +4,6 @@ title: "Jim Kosem: Design, strategy & research"
 permalink: /index
 ---
 
-&nbsp;
-
 # Hi, I'm Jim
 
 ## I design products, services and strategies with impact
