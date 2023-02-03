@@ -11,230 +11,11 @@
 			"file": "index.md",
 			"settings":
 			{
-				"buffer_size": 2227,
-				"encoding": "UTF-8",
+				"buffer_size": 2372,
 				"line_ending": "Unix"
 			},
 			"undo_stack":
 			[
-				[
-					8,
-					1,
-					"insert",
-					{
-						"characters": "##"
-					},
-					"AgAAAHIAAAAAAAAAcwAAAAAAAAAAAAAAcwAAAAAAAAB0AAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAcgAAAAAAAAByAAAAAAAAAAAAAAAAAAAA"
-				],
-				[
-					9,
-					1,
-					"insert",
-					{
-						"characters": " "
-					},
-					"AQAAAHQAAAAAAAAAdQAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAdAAAAAAAAAB0AAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		},
-		{
-			"file": "sedna.md",
-			"settings":
-			{
-				"buffer_size": 1994,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-				[
-					3,
-					1,
-					"insert",
-					{
-						"characters": "\ntags:"
-					},
-					"BgAAAC4AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADEAAAAAAAAAAAAAADEAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAADQAAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAuAAAAAAAAAC4AAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					4,
-					1,
-					"insert",
-					{
-						"characters": " "
-					},
-					"AQAAADQAAAAAAAAANQAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA0AAAAAAAAADQAAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					6,
-					1,
-					"left_delete",
-					null,
-					"AQAAADIAAAAAAAAAMgAAAAAAAAABAAAAcw",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAzAAAAAAAAADMAAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					8,
-					1,
-					"insert",
-					{
-						"characters": "Interact"
-					},
-					"CAAAADQAAAAAAAAANQAAAAAAAAAAAAAANQAAAAAAAAA2AAAAAAAAAAAAAAA2AAAAAAAAADcAAAAAAAAAAAAAADcAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA5AAAAAAAAAAAAAAA5AAAAAAAAADoAAAAAAAAAAAAAADoAAAAAAAAAOwAAAAAAAAAAAAAAOwAAAAAAAAA8AAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA0AAAAAAAAADQAAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					9,
-					8,
-					"left_delete",
-					null,
-					"CAAAADsAAAAAAAAAOwAAAAAAAAABAAAAdDoAAAAAAAAAOgAAAAAAAAABAAAAYzkAAAAAAAAAOQAAAAAAAAABAAAAYTgAAAAAAAAAOAAAAAAAAAABAAAAcjcAAAAAAAAANwAAAAAAAAABAAAAZTYAAAAAAAAANgAAAAAAAAABAAAAdDUAAAAAAAAANQAAAAAAAAABAAAAbjQAAAAAAAAANAAAAAAAAAABAAAASQ",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA8AAAAAAAAADwAAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					10,
-					1,
-					"insert",
-					{
-						"characters": "interaction,"
-					},
-					"DAAAADQAAAAAAAAANQAAAAAAAAAAAAAANQAAAAAAAAA2AAAAAAAAAAAAAAA2AAAAAAAAADcAAAAAAAAAAAAAADcAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA5AAAAAAAAAAAAAAA5AAAAAAAAADoAAAAAAAAAAAAAADoAAAAAAAAAOwAAAAAAAAAAAAAAOwAAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAAD0AAAAAAAAAAAAAAD0AAAAAAAAAPgAAAAAAAAAAAAAAPgAAAAAAAAA/AAAAAAAAAAAAAAA/AAAAAAAAAEAAAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA0AAAAAAAAADQAAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					11,
-					1,
-					"insert",
-					{
-						"characters": " "
-					},
-					"AQAAAEAAAAAAAAAAQQAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					12,
-					1,
-					"insert",
-					{
-						"characters": "service"
-					},
-					"BwAAAEEAAAAAAAAAQgAAAAAAAAAAAAAAQgAAAAAAAABDAAAAAAAAAAAAAABDAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAARQAAAAAAAAAAAAAARQAAAAAAAABGAAAAAAAAAAAAAABGAAAAAAAAAEcAAAAAAAAAAAAAAEcAAAAAAAAASAAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABBAAAAAAAAAEEAAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					13,
-					9,
-					"left_delete",
-					null,
-					"CQAAAEcAAAAAAAAARwAAAAAAAAABAAAAZUYAAAAAAAAARgAAAAAAAAABAAAAY0UAAAAAAAAARQAAAAAAAAABAAAAaUQAAAAAAAAARAAAAAAAAAABAAAAdkMAAAAAAAAAQwAAAAAAAAABAAAAckIAAAAAAAAAQgAAAAAAAAABAAAAZUEAAAAAAAAAQQAAAAAAAAABAAAAc0AAAAAAAAAAQAAAAAAAAAABAAAAID8AAAAAAAAAPwAAAAAAAAABAAAALA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABIAAAAAAAAAEgAAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					14,
-					1,
-					"insert",
-					{
-						"characters": " design,"
-					},
-					"CAAAAD8AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABBAAAAAAAAAAAAAABBAAAAAAAAAEIAAAAAAAAAAAAAAEIAAAAAAAAAQwAAAAAAAAAAAAAAQwAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEUAAAAAAAAAAAAAAEUAAAAAAAAARgAAAAAAAAAAAAAARgAAAAAAAABHAAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA/AAAAAAAAAD8AAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					15,
-					1,
-					"insert",
-					{
-						"characters": " serice"
-					},
-					"BwAAAEcAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABJAAAAAAAAAAAAAABJAAAAAAAAAEoAAAAAAAAAAAAAAEoAAAAAAAAASwAAAAAAAAAAAAAASwAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAE0AAAAAAAAAAAAAAE0AAAAAAAAATgAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABHAAAAAAAAAEcAAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					16,
-					3,
-					"left_delete",
-					null,
-					"AwAAAE0AAAAAAAAATQAAAAAAAAABAAAAZUwAAAAAAAAATAAAAAAAAAABAAAAY0sAAAAAAAAASwAAAAAAAAABAAAAaQ",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABOAAAAAAAAAE4AAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					17,
-					1,
-					"insert",
-					{
-						"characters": "vice"
-					},
-					"BAAAAEsAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABNAAAAAAAAAAAAAABNAAAAAAAAAE4AAAAAAAAAAAAAAE4AAAAAAAAATwAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABLAAAAAAAAAEsAAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					18,
-					1,
-					"insert",
-					{
-						"characters": " design"
-					},
-					"BwAAAE8AAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABRAAAAAAAAAAAAAABRAAAAAAAAAFIAAAAAAAAAAAAAAFIAAAAAAAAAUwAAAAAAAAAAAAAAUwAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFUAAAAAAAAAAAAAAFUAAAAAAAAAVgAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABPAAAAAAAAAE8AAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					19,
-					1,
-					"insert",
-					{
-						"characters": ","
-					},
-					"AQAAAFYAAAAAAAAAVwAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABWAAAAAAAAAFYAAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					20,
-					1,
-					"insert",
-					{
-						"characters": " research"
-					},
-					"CQAAAFcAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABZAAAAAAAAAAAAAABZAAAAAAAAAFoAAAAAAAAAAAAAAFoAAAAAAAAAWwAAAAAAAAAAAAAAWwAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAF0AAAAAAAAAAAAAAF0AAAAAAAAAXgAAAAAAAAAAAAAAXgAAAAAAAABfAAAAAAAAAAAAAABfAAAAAAAAAGAAAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABXAAAAAAAAAFcAAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					21,
-					1,
-					"insert",
-					{
-						"characters": ","
-					},
-					"AQAAAGAAAAAAAAAAYQAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					22,
-					1,
-					"insert",
-					{
-						"characters": " stra"
-					},
-					"BQAAAGEAAAAAAAAAYgAAAAAAAAAAAAAAYgAAAAAAAABjAAAAAAAAAAAAAABjAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAZQAAAAAAAAAAAAAAZQAAAAAAAABmAAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABhAAAAAAAAAGEAAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					23,
-					1,
-					"insert_completion",
-					{
-						"completion": "strategy",
-						"format": "text",
-						"keep_prefix": false,
-						"must_insert": false,
-						"trigger": "strategy"
-					},
-					"AgAAAGIAAAAAAAAAYgAAAAAAAAAEAAAAc3RyYWIAAAAAAAAAagAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABmAAAAAAAAAGYAAAAAAAAAAAAAAAAA8L8"
-				]
 			]
 		}
 	],
@@ -250,12 +31,12 @@
 		"selected_items":
 		[
 			[
-				"commit",
-				"Set Syntax: Git Commit Message"
-			],
-			[
 				"termin",
 				"Terminus: Toggle Panel"
+			],
+			[
+				"commit",
+				"Set Syntax: Git Commit Message"
 			],
 			[
 				"git",
@@ -299,15 +80,21 @@
 	"expanded_folders":
 	[
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio",
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_includes",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_layouts"
 	],
 	"file_history":
 	[
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/index.md",
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/sedna.md",
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_includes/header.html",
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_includes/collecttags.html",
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/tag/service.md",
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_includes/tagpage.html",
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_layouts/default.html",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/archive.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/faq.md",
-		"/Users/jimkosem/Documents/GitHub/jk-portfolio/index.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_site/index.html",
-		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_layouts/default.html",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/ipfs-mobile.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/bastion.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/landscapesofreconquest.md"
@@ -353,23 +140,23 @@
 					"buffer": 0,
 					"file": "index.md",
 					"selected": true,
-					"semi_transient": false,
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 2227,
+						"buffer_size": 2372,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								74,
-								74
+								656,
+								656
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Git Formats/Git Commit Message.sublime-syntax",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
@@ -378,35 +165,6 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "sedna.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1994,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								106,
-								106
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
 					"stack_multiselect": false,
 					"type": "text"
 				}
@@ -419,7 +177,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 39.0
 	},
 	"layout":
 	{

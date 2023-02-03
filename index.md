@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Jim Kosem: Design, strategy & research"
+title: "Jim Kosem: Product, service & strategy design"
 permalink: /index
 ---
 
@@ -19,7 +19,7 @@ few examples of what all of this looks like, and there is more in the [archive](
 
 &nbsp;
 
-[![SEDNA]({{site.url}}assets/images/sedna-card.png)](sedna.html)
+[![SEDNA]({{site.url}}assets/images/sedna-card-m.png)](sedna.html)
 
 #### [SEDNA](sedna.html)
 
