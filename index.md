@@ -27,7 +27,7 @@ Building a design practice to reinvent team communications in logistics
 
 &nbsp;
 
-[![IPFS Mobile Design guidelines]({{site.url}}assets/images/ipfs-mobile-card.png)](ipfs-mobile.html)
+[![IPFS Mobile Design guidelines]({{site.url}}assets/images/ipfs-mobile-card-m.png)](ipfs-mobile.html)
 
 #### [IPFS Mobile Design guidelines](ipfs-mobile.html)
 
