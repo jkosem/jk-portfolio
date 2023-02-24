@@ -16,7 +16,7 @@ author: Jim
 
 * Designed and recruited for and conducted the research with three different cohorts
 * Developer community engagement
-* Designing and facilitating workshops and co-creation sessions
+* Designing and facilitating workshops and co-creation sessions with stakeholders and community members
 * Interface and interaction design
 
 ## Approach
@@ -29,15 +29,17 @@ The research formed the basis to the design which served to further explore and 
 
 [IPFS Mobile Design Guidelines](https://jkosem.gitbook.io/ipfs-mobile-guidelines/) on GitBook
 
-### Principles
+#### Design Principles
 
 We developed a number of Design Principles for designing for IPFS. These are suggestions for designers and developers of what to think about when building their apps and services on IPFS.
 
 ![]({{site.url}}assets/images/ipfs-mobile-cheat-sheet.png)
 
+Each design principle, such as Respect the Device shown here, distilled the research and workshops to provide best practices and overarching rationale for how mobile apps that use IPFS should be designed.
+
 ![]({{site.url}}assets/images/ipfs-mobile-principles.png)
 
-### Scenarios
+#### Design Scenarios
 
 Following the Principles we then created Design Scenarios to help designers and developers with situations they are likely to encounter when creating mobile apps and services for IPFS. The scenarios include onboarding, sharing through the mobile OS, sending large files, offline media and identity management. Below are two examples:
 
@@ -51,7 +53,7 @@ Large file sent to other user with/without internet access
 
 ### Durin
 
-Protocol Labs then used the design principles and guidance to go on to develop native apps available on both the [iOS](https://apps.apple.com/si/app/durin/id1613391995) and [Android](https://play.google.com/store/apps/details?id=ai.protocol.durin&gl=US) app stores, to utilise and test out the principles and guidelines called Durin.
+Protocol Labs then used the design principles and guidance to go on to develop native apps available on both the [iOS](https://apps.apple.com/si/app/durin/id1613391995) and [Android](https://play.google.com/store/apps/details?id=ai.protocol.durin&gl=US) app stores, to utilise and test out the principles and guidelines called Durin. 
 
 ![]({{site.url}}assets/images/ipfs-durin-all.png)
 
