@@ -12,8 +12,7 @@ Secondarily they were interested in opporunties with using Machine Learning (ML)
 
 ## Role & Approach
 
-My role on the Yleos was distilling leaderships needs balanced with user feedback and interviews and designing a user interface to address thoughs while pointing to new product possibilities.
-
+My role on Yleos was to design a user interface that addresses and distills leadership's needs and balances them with user feedback while pointing to new product possibilities.
 
 ## Results
 
