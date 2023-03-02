@@ -22,7 +22,6 @@ My role on Yleos was to design a user interface that addresses and distills lead
 
 ![]({{site.url}}assets/images/yleos-video.png)
 
-
 ### Work in progress
 
 - Designing a recording and writing mode to work with the new video and transcript view

@@ -23,7 +23,15 @@ few examples of what all of this looks like, and there is more in the [archive](
 
 #### [SEDNA](sedna.html)
 
-Building a design practice to reinvent team communications in logistics
+Building a design practice to innovate team communications in logistics
+
+&nbsp;
+
+[![Yleos]({{site.url}}assets/images/yleos-card-m.jpg)](yleos.html)
+
+#### [SEDNA](yleos.html)
+
+Reinventing video interviewing with AI
 
 &nbsp;
 
