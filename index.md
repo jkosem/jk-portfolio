@@ -27,9 +27,9 @@ Building a design practice to innovate team communications in logistics
 
 &nbsp;
 
-[![Yleos]({{site.url}}assets/images/yleos-card-m.jpg)](yleos.html)
+[![Yleos]({{site.url}}assets/images/yleos-card-m.png)](yleos.html)
 
-#### [SEDNA](yleos.html)
+#### [Yleos](yleos.html)
 
 Reinventing video interviewing with AI
 
