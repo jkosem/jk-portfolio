@@ -21,7 +21,11 @@ author: Jim
 
 ## Approach
 
-To create that level of clarity, designers and developers need clear guidelines that align with user needs to unlock thed power of the decentralised mobile web. These guidelines comprise of two main parts, research and design. The research stretched across North America, Europe and Africa, and consisted of three separate cohorts: Experts, Early Adopters and Potential Users. This qualitative, primary research was tempered with examining the existing P2P and related software application landscape and surveying existing mobile design patterns and attitudes.
+To create that level of clarity, designers and developers need clear guidelines that align with user needs to unlock thed power of the decentralised mobile web. These guidelines comprise of two main parts, research and design.
+
+First the landscape and ecosystem was established with an Application Survey. This includes a review, documentation and analysis of mobile browsers and then mobile sharing interaction patterns. This was followed by an application survery examining a broad spectrum of P2P and mobile apps. Then we established the cross-app feature and interaction landscape to examine everything in context, followed by analysis.
+
+The user research stretched across North America, Europe and Africa, and consisted of three separate cohorts: Experts, Early Adopters and Potential Users. This qualitative, primary research was tempered with examining the existing P2P and related software application landscape and surveying existing mobile design patterns and attitudes.
 
 ## Results
 
