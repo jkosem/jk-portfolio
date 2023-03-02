@@ -22,8 +22,11 @@ My role on Yleos was to design a user interface that addresses and distills lead
 
 ![]({{site.url}}assets/images/yleos-video.png)
 
+- Design of recording mode for the note taker with interface for taking notes and progressing marking of interview through question structure
+
+![]({{site.url}}assets/images/yleos-notes.png)
+
 ### Work in progress
 
-- Designing a recording and writing mode to work with the new video and transcript view
 - Design of after interview debrief feature
 - Service and interface design for multi-interviewer scenario involving multiple roles timeline marking
