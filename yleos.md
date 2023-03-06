@@ -6,9 +6,9 @@ author: Jim
 
 ## Overview & Challenge
 
-Yleos was interested in reexamining their current product and addressing concerns about how to deal with unresolved issues on the roadmap, namely how to handle transcripts and how to integrate video playback which was not yet in any interface they had.
+Yleos is a startup and product that is focused on recording, annotating and analysing interviews. While there are many interview and user research focused tools, none focus on producing structured and reusable data which interviewers and researchers can easily and quickly action.
 
-Secondarily they were interested in opporunties with using Machine Learning (ML) and AI to meet user needs with interveiwing, namely analysis and gathering findings, as well as cleaning up transcriptions.
+Yleos was interested in reexamining their current product and addressing concerns about how to deal with unresolved issues on the roadmap, namely how to handle transcripts and how to integrate video playback which was not yet in any interface they had. They were also interested in opportunties with using Machine Learning (ML) and AI to meet user needs with interveiwing, namely analysis and gathering findings, sentiment analysis and transcriptions clean-up.
 
 ## Role & Approach
 
@@ -20,13 +20,16 @@ The Yleos service is multi-modal and multi-faceted. Ideally there are two people
 
 ![]({{site.url}}assets/images/yleos-service.png)
 
+#### Interview support and note taking
 
 ![]({{site.url}}assets/images/yleos-notes.png)
 
 - Overall more readable and balance interface with a more comprehensive UI grid and implemented more accessibility best practices
 - Design of recording mode for the note taker with interface for taking notes and progressing marking of interview through question structure
 
-![]({{site.url}}assets/images/yleos-video.png)
+#### Review and analysis
+
+![]({{site.url}}assets/images/yleos-review.png)
 
 - Reorganised the timeline interface to integrate transcripts to utilise Yleos's unique proposition of being able to tie everything in the interview recording to a question and answer structure
 - Designing in features that could utilise ML/AI that would answer interiewers and user researchers needs in terms of debriefing and analysis and integrating that into a single, well organised video and transcript interface

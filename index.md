@@ -31,7 +31,7 @@ Building a design practice to innovate team communications in logistics
 
 #### [Yleos](yleos.html)
 
-Reinventing video interviewing with AI
+Reinventing interviewing with AI and structured output
 
 &nbsp;
 
