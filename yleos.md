@@ -30,6 +30,7 @@ The Yleos service is multi-modal and multi-faceted. Ideally there are two people
 
 - Overall more readable and balance interface with a more comprehensive UI grid and implemented more accessibility best practices
 - Design of recording mode for the note taker with interface for taking notes and progressing marking of interview through question structure
+- Takes into account feedback from users and stakeholders about debriefing immediately after the interview being the most valuable part, and puts that automatically into the UI for the user, and then allows them to save and transcribe.
 
 #### Review and analysis
 
@@ -37,5 +38,6 @@ The Yleos service is multi-modal and multi-faceted. Ideally there are two people
 
 ![]({{site.url}}assets/images/yleos-review2-1440.png)
 
-- Reorganised the timeline interface to integrate transcripts to utilise Yleos's unique proposition of being able to tie everything in the interview recording to a question and answer structure
-- Designing in features that could utilise ML/AI that would answer interiewers and user researchers needs in terms of debriefing and analysis and integrating that into a single, well organised video and transcript interface
+- Reorganised the timeline interface to integrate transcripts to utilise Yleos's unique proposition of being able to tie everything in the interview recording to a question and answer structure as well as giving the user a way to customise their timelines and transcriptions
+- Designing in features that could utilise ML/AI to produce not only a short synapsis of the interview but sentiment analysis as well. Also, the AI would also produce answer summaries to the interviewer's questions, thus closing the loop between questions and answer directly
+- Answers interviewers and user researchers needs in terms of debriefing and analysis and integrating that into a single, well organised video and transcript interface
