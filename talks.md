@@ -5,7 +5,7 @@ title: "Jim Kosem: Talks"
 
 # Talks, seminars & exhibitions
 
-2-7 Feb 2020 - IxDA 2020 (Milan, ITA)
+2-7 Feb 2020 - IxDA (Interaction Designers Association) 2020 (Milan, ITA)
 
 26 June 2019 - Ethereum London keynote “Designers, Toasters and Blockchain” (London, UK)
 
@@ -15,7 +15,7 @@ title: "Jim Kosem: Talks"
 
 22 May 2017 - Digital Heritage ‘Big’ Data Hacking and Visualisation (London, UK)
 
-16 Mar 2017 - The North London Literature Festival (London, UK)
+16 Mar 2017 - Middlesex University (London, UK)
 
 11 Nov 2016 - FutureLearn (London, UK)
 
@@ -25,7 +25,7 @@ title: "Jim Kosem: Talks"
 
 22 May 2015 - Google (London, UK)
 
-30 Nov 2011 - MEX (London, UK)
+30 Nov 2011 - MEX (Mobile User Experience) (London, UK)
 
 18 Oct 2011 - The Ukrainian Ministry of Education (Kiev, UKR)
 
