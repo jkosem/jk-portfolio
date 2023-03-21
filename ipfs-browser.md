@@ -12,26 +12,30 @@ The [InterPlanetary File System](https://ipfs.io/){:target="_blank"} (IPFS) is a
 
 In preparation for a 2020-2021 expansion of Protocol Lab’s IPFS browser integrations and standardisation efforts (due to be default in the Brave and Opera browsers), Protocol Labs needed guidelines and recommendations on hand to get to their first billion users through browsers. This is what we started doing by designing how IPFS would be used in a browser.
 
-## Role & Approach
+## Results
 
-Research
+The guidelines, due to be open sourced and published, are due to be presented to the standards bodies the [IETF](https://www.ietf.org) (The Internet Engineering Task Force is the premier standards development organization (SDO) for the Internet.) and the [WC3](https://www.w3.org) (The World Wide Web Consortium. The guidelines provide research-based, user-centred direction as to how to replace HTTP and HTTPS with the IPFS protocol in browsers.
+
+#### Research
 
 - Landscape survey review
 - Exploratory workshop with developers, experts and stakeholders
 - Interviews with experts and non-expert potential users
 - Analysis
 
-Design
+#### Design
 
 - Screen designs including recommendations, iconographic and design treatments for existing browser URL bars
 - User experience flows
 - Design guidelines and component design to inform and help further development efforts
 - Recommendations for further work
 
-## Results
+<!---
+![]({{site.url}}assets/images/ipfs-browser-connecting.png)
 
-![IPFS Browser Design Guidelines]({{site.url}}assets/images/ipfs-browser.png)
+![]({{site.url}}assets/images/ipfs-browser-findingpeers.png)
+--->
 
-The guidelines, due to be open sourced and published, are due to be presented to the standards bodies the [IETF](https://www.ietf.org) (The Internet Engineering Task Force is the premier standards development organization (SDO) for the Internet.) and the [WC3](https://www.w3.org) (The World Wide Web Consortium. The guidelines provide research-based, user-centred direction as to how to replace HTTP and HTTPS with the IPFS protocol in browsers.
+![]({{site.url}}assets/images/ipfs-browser.png)
 
 View on [Github](https://github.com/ipfs/browser-design-guidelines) (MIT license).
