@@ -20,22 +20,20 @@ The guidelines, due to be open sourced and published, are due to be presented to
 
 - Landscape survey review
 - Exploratory workshop with developers, experts and stakeholders
-- Interviews with experts and non-expert potential users
-- Analysis
+- Interview study with experts and non-expert potential users
+- Analysis and findings
 
 #### Design
 
-- Screen designs including recommendations, iconographic and design treatments for existing browser URL bars
+- RecommendationsScreen designs including , iconographic and design treatments for existing browser URL bars
 - User experience flows
 - Design guidelines and component design to inform and help further development efforts
 - Recommendations for further work
 
-<!---
-![]({{site.url}}assets/images/ipfs-browser-connecting.png)
+![]({{site.url}}assets/images/ipfs-browser-connect.png)
 
-![]({{site.url}}assets/images/ipfs-browser-findingpeers.png)
---->
+![]({{site.url}}assets/images/ipfs-browser-accesssharedfile1.png)
 
-![]({{site.url}}assets/images/ipfs-browser.png)
+![]({{site.url}}assets/images/ipfs-browser-accesssharedfile2.png)
 
 View on [Github](https://github.com/ipfs/browser-design-guidelines) (MIT license).
