@@ -4,8 +4,6 @@ title: "Hummingbot"
 author: Jim
 ---
 
-{% include backtoarchive.html %}
-
 # Jim Kosem - CV
 
 [jimkosem.com](https://jimkosem.com)&nbsp;&nbsp;\|&nbsp;&nbsp;[jim@jimkosem.com](mailto:jim@jimkosem.com)&nbsp;&nbsp;\|&nbsp;&nbsp;+386 68164251
