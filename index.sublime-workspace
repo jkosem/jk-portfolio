@@ -8,24 +8,24 @@
 	"buffers":
 	[
 		{
-			"file": "index.md",
+			"contents": "<!DOCTYPE html>\n<html lang=\"{{ site.lang | default: \"en-US\" }}\">\n<head>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <meta charset=\"utf-8\">\n    <title>{{ page.title }} - {{ site.title }}</title>\n\n    <meta property=\"og:url\" content=\"https://jimkosem.com/\"/>\n    <meta property=\"og:site_name\" content=\"Jim Kosem: Product & service design\"/>\n    <meta property=\"og:title\" content=\"Jim Kosem: Product & service design\"/>\n    <meta property=\"og:description\" content=\"Jim Kosem: Product & service design\"/>\n\n    <meta property=\"og:image\" content=\"https://jimkosem.com/assets/images/socialcard-sm.png\"/>\n    <meta property=\"og:image:type\" content=\"image/png\"/>\n    <meta property=\"og:image:width\" content=\"1200\"/>\n    <meta property=\"og:image:height\" content=\"630\"/>\n    <meta property=\"og:image:alt\" content=\"Jim Kosem: Product & service design\"/>\n\n    <meta property=\"og:image\" content=\"https://jimkosem.com/assets/images/socialcard-m.png\"/>\n    <meta property=\"og:image:type\" content=\"image/png\"/>\n    <meta property=\"og:image:width\" content=\"600\"/>\n    <meta property=\"og:image:height\" content=\"314\"/>\n    <meta property=\"og:image:alt\" content=\"Jim Kosem: Product & service design\"/>\n\n    <meta property=\"og:image\" content=\"https://jimkosem.com/assets/images/socialcard-sm.png\"/>\n    <meta property=\"og:image:type\" content=\"image/png\"/>\n    <meta property=\"og:image:width\" content=\"400\"/>\n    <meta property=\"og:image:height\" content=\"400\"/>\n    <meta property=\"og:image:alt\" content=\"Jim Kosem: Product & service design\"/>\n\n    <meta name=\"twitter:card\" content=\"sumary\"/>\n    <meta name=\"twitter:site\" content=\"#site_twitter\"/>\n    <meta name=\"twitter:creator\" content=\"#creator_twitter\"/>\n\n    <link rel=\"stylesheet\" href=\"{{ root_url }}assets/css/main.css\">\n    <link rel=\"shortcut icon\" type=\"images/png\" href=\"favicon-16x16.png\">\n</head>\n<body>\n\n<div class=\"container\">\n    <div class=\"content\">\n\n    {% include header.html %}\n\n    {{ content }}\n\n</div>\n\n{% include footer.html %}\n\n</div>\n\n</body>\n</html>\n",
+			"file": "_layouts/default.html",
+			"file_size": 2043,
+			"file_write_time": 133238825169399831,
 			"settings":
 			{
-				"buffer_size": 2543,
-				"encoding": "UTF-8",
+				"buffer_size": 2042,
 				"line_ending": "Unix"
 			},
 			"undo_stack":
 			[
 				[
-					3,
+					4,
 					1,
-					"insert",
-					{
-						"characters": "-m"
-					},
-					"AgAAACAFAAAAAAAAIQUAAAAAAAAAAAAAIQUAAAAAAAAiBQAAAAAAAAAAAAA",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACAFAAAAAAAAIAUAAAAAAAAAAAAAAADwvw"
+					"left_delete",
+					null,
+					"AQAAAKoHAAAAAAAAqgcAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAqwcAAAAAAACrBwAAAAAAAAAAAAAAAAAA"
 				]
 			]
 		}
@@ -41,6 +41,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"terminal",
+				"Terminus: Toggle Panel"
+			],
 			[
 				"termin",
 				"Terminus: Toggle Panel"
@@ -103,22 +107,24 @@
 	"expanded_folders":
 	[
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio",
-		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_layouts"
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_includes"
 	],
 	"file_history":
 	[
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_includes/header.html",
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/cv.md",
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/index.md",
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/hummingbot.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/ipfs-browser.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/sedna.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_layouts/default.html",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/yleos.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/talks.md",
-		"/Users/jimkosem/Documents/GitHub/jk-portfolio/index.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/faq.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/assets/images/yleos-review1-1440.png",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_config.yml",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/ipfs-mobile.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_site/ipfs-mobile.html",
-		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_includes/header.html",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_includes/collecttags.html",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/tag/service.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_includes/tagpage.html",
@@ -166,30 +172,30 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index.md",
+					"file": "_layouts/default.html",
 					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2543,
+						"buffer_size": 2042,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								984,
-								984
+								1989,
+								1989
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 539.0,
+						"translation.y": 200.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -280,7 +286,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 220.0,
+	"side_bar_width": 276.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
