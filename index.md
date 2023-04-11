@@ -6,9 +6,9 @@ permalink: /index
 
 # Hi, I'm Jim
 
-## I design products, services and strategies with impact
+## I design products, services and strategies
 
-I research and design interactions and interfaces that are meaningful, systems that are liveable and make emerging technologies practical realities for the following organisations and more.
+I research and design interactions and interfaces that are meaningful, systems that are liveable and make emerging technologies practical realities for the following organisations and more:
 
 <div>
     <img src="assets/images/logos.png" style="padding-top:33px;padding-bottom:33px;">

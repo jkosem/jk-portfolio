@@ -8,24 +8,37 @@
 	"buffers":
 	[
 		{
-			"contents": "<!DOCTYPE html>\n<html lang=\"{{ site.lang | default: \"en-US\" }}\">\n<head>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <meta charset=\"utf-8\">\n    <title>{{ page.title }} - {{ site.title }}</title>\n\n    <meta property=\"og:url\" content=\"https://jimkosem.com/\"/>\n    <meta property=\"og:site_name\" content=\"Jim Kosem: Product & service design\"/>\n    <meta property=\"og:title\" content=\"Jim Kosem: Product & service design\"/>\n    <meta property=\"og:description\" content=\"Jim Kosem: Product & service design\"/>\n\n    <meta property=\"og:image\" content=\"https://jimkosem.com/assets/images/socialcard-sm.png\"/>\n    <meta property=\"og:image:type\" content=\"image/png\"/>\n    <meta property=\"og:image:width\" content=\"1200\"/>\n    <meta property=\"og:image:height\" content=\"630\"/>\n    <meta property=\"og:image:alt\" content=\"Jim Kosem: Product & service design\"/>\n\n    <meta property=\"og:image\" content=\"https://jimkosem.com/assets/images/socialcard-m.png\"/>\n    <meta property=\"og:image:type\" content=\"image/png\"/>\n    <meta property=\"og:image:width\" content=\"600\"/>\n    <meta property=\"og:image:height\" content=\"314\"/>\n    <meta property=\"og:image:alt\" content=\"Jim Kosem: Product & service design\"/>\n\n    <meta property=\"og:image\" content=\"https://jimkosem.com/assets/images/socialcard-sm.png\"/>\n    <meta property=\"og:image:type\" content=\"image/png\"/>\n    <meta property=\"og:image:width\" content=\"400\"/>\n    <meta property=\"og:image:height\" content=\"400\"/>\n    <meta property=\"og:image:alt\" content=\"Jim Kosem: Product & service design\"/>\n\n    <meta name=\"twitter:card\" content=\"sumary\"/>\n    <meta name=\"twitter:site\" content=\"#site_twitter\"/>\n    <meta name=\"twitter:creator\" content=\"#creator_twitter\"/>\n\n    <link rel=\"stylesheet\" href=\"{{ root_url }}assets/css/main.css\">\n    <link rel=\"shortcut icon\" type=\"images/png\" href=\"favicon-16x16.png\">\n</head>\n<body>\n\n<div class=\"container\">\n    <div class=\"content\">\n\n    {% include header.html %}\n\n    {{ content }}\n\n</div>\n\n{% include footer.html %}\n\n</div>\n\n</body>\n</html>\n",
-			"file": "_layouts/default.html",
-			"file_size": 2043,
-			"file_write_time": 133238825169399831,
+			"contents": "---\nlayout: default\n# title: \"CV\"\nauthor: Jim\n---\n\n# Jim Kosem - CV\n\n[jimkosem.com](https://jimkosem.com)&nbsp;&nbsp;\\|&nbsp;&nbsp;[jim@jimkosem.com](mailto:jim@jimkosem.com)&nbsp;&nbsp;\\|&nbsp;&nbsp;+386 68164251\n\n\n## Experience\n\n**SEDNA** - Design Lead, Senior Interaction Designer (Oct 2020 - Dec 2022)\n\n- Established user-centred design practice and processes to reinvent enterprise communications for automation, collaboration and transactions\n- Built a design team (4x), helped implement a user research practice, mentorship, and facilitated strategy with leadership and engineering\n- Led overhaul of the user interface including accessibility standards\n- Design operations and started and co-led design system efforts\n- Category design and product strategy\n\n**Middlesex University** - Guest lecturer (Mar 2018 - Aug 2020)\n\n- Taught storytelling for mixed reality (MXR, VR, AR) and facilitated workshops and seminars\n\n**Protocol Labs** - Design research and strategy (Nov 2019 - July 2020)\n\n- Researched and designed design guidelines for browser to be published and presented for international browser standardisation\n- Researched and designed mobile design guidelines leading to the release of native apps (Durin)\n\n**UK Ministry of Justice** - Senior Interaction Designer (Apr 2019 - Nov 2019, Sep 2013 - Mar 2015)\n\n- Designed and helped research an end-to-end Civil Legal Aid service which included the development of a new design standard for internal users in case handling\n- Designed and helped research a governmental correspondence service for information requests\n\n**UK Home Office** - Interaction and Service Designer (Mar 2015 - June 2018)\n\n- Designed and helped research an investigation and analysis tool for the UK national border cutting case handling time in half\n\n**Intel** - Product Manager, Design Lead (Jul 2012 - Aug 2013, Feb 2012 - Jul 2012)\n\n- Product manager, product vision owner and design lead for a multi-device, multi-platform media experience managing teams in the UK, US, Ireland and Israel\n- Designed a second screen creation system to help people watch TV better utilising a custom built Natural Language Processing (NLP)\n- Designed approachable and understandable GUI-based build systems for Linux\n\n**Google** - Interaction and Interface Designer (Sep 2011 - Dec 2011)\n\n- Helped redesign and rework an acquired product to look, act and feel like a Google product\n- Worked to develop user interface and interaction standards and guidelines for new Google products\n\n**The Council of Europe** - Design and Technology Expert (Jun 2011 - Dec 2011)\n\n- Consulted on efforts and participated in international seminars about bringing technology and design to history education\n\n**Horizon Digital Economy Research** - Project Manager, Research Associate (Mar 2010 - Jul 2011)\n\n- Led the design and prototype development and deployment of a large, multinational academic research project\n\n**Samsung Design Europe** - Lead Mobile Interaction Designer (Sep 2008 - Mar 2010)\n\n- Lead Samsung Europe's first inclusive design project investigating enabling older people through mobile technology\n- Researched and published mobile sustainability and accessibility strategies for Samsung in Europe\n\n## Education\n\n**Royal College of Art** - London, UK (2004 – 2006)<br>\nMaster of Arts, Interaction Design  \n\n**Cleveland Institute of Art** - Cleveland, OH, USA (1994 – 1998)<br>\nBachelor of Fine Arts, Graphic Design",
+			"file": "cv.md",
+			"file_size": 3438,
+			"file_write_time": 133253556239627784,
 			"settings":
 			{
-				"buffer_size": 2042,
+				"buffer_size": 3436,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
 			"undo_stack":
 			[
 				[
-					4,
+					5,
 					1,
-					"left_delete",
-					null,
-					"AQAAAKoHAAAAAAAAqgcAAAAAAAABAAAACg",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACrBwAAAAAAAKsHAAAAAAAAAAAAAAAAAAA"
+					"insert",
+					{
+						"characters": "CV"
+					},
+					"AwAAABwAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAdAAAAAAAAAAoAAABIdW1taW5nYm90HQAAAAAAAAAeAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHAAAAAAAAAAmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAABQAAAAAAAAAFgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgAAAAAAAAAeAAAAAAAAAAAAAAAAAPC/"
 				]
 			]
 		}
@@ -42,6 +55,14 @@
 		"selected_items":
 		[
 			[
+				"term",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"tog",
+				"Toggle Comment"
+			],
+			[
 				"termin",
 				"Terminus: Toggle Panel"
 			],
@@ -56,10 +77,6 @@
 			[
 				"termina",
 				"Terminus: Toggle Panel"
-			],
-			[
-				"term",
-				"History: Revert Modification"
 			],
 			[
 				"togg",
@@ -111,13 +128,13 @@
 	],
 	"file_history":
 	[
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_layouts/default.html",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_includes/header.html",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/cv.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/index.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/hummingbot.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/ipfs-browser.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/sedna.md",
-		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_layouts/default.html",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/yleos.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/talks.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/faq.md",
@@ -172,30 +189,28 @@
 			[
 				{
 					"buffer": 0,
-					"file": "_layouts/default.html",
+					"file": "cv.md",
 					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2042,
+						"buffer_size": 3436,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1989,
-								1989
+								32,
+								32
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 200.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
