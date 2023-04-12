@@ -8,11 +8,6 @@ author: Jim
 
 [jimkosem.com](https://jimkosem.com)&nbsp;&nbsp;\|&nbsp;&nbsp;[jim@jimkosem.com](mailto:jim@jimkosem.com)&nbsp;&nbsp;\|&nbsp;&nbsp;+386 68164251
 
-
-# Jim Kosem - CV
-
-Jimkosem.com  | jim@jimkosem.com  | +386 68164251 
-
 Experienced UX/UI Designer Crafting Innovative Solutions
 
 ## Summary
