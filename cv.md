@@ -17,7 +17,7 @@ Experienced UX/UI Designer Crafting Innovative Solutions
 - Adept at assembling and mentoring high-performing design teams, fostering a culture of innovation and driving product excellence.
 - Demonstrated commitment to inclusive design, with a rich background in implementing design systems and accessibility standards that cater to diverse audiences.
 - Proficient in mixed platforms and multi-touchpoint experiences, from mobile to desktop and beyond, with a proven ability to develop ground-breaking products and guidelines that leave lasting impressions.
-- Natural collaborator, seamlessly integrating with cross-functional teams and stakeholders to inspire strategic thinking and propel organizations forward.
+- Natural collaborator, seamlessly integrating with cross-functional teams and stakeholders to inspire strategic thinking and propel organisations forward.
 
 ## Experience 
 

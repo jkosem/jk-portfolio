@@ -7,306 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "cv.md",
-			"settings":
-			{
-				"buffer_size": 5511,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-				[
-					4,
-					1,
-					"insert",
-					{
-						"characters": "\n\n"
-					},
-					"AgAAANcAAAAAAAAA2AAAAAAAAAAAAAAA2AAAAAAAAADZAAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADXAAAAAAAAANcAAAAAAAAAAAAAAACgZ0A"
-				],
-				[
-					2,
-					1,
-					"insert",
-					{
-						"characters": "\n#"
-					},
-					"AgAAANcAAAAAAAAA2AAAAAAAAAAAAAAA2AAAAAAAAADZAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA1wAAAAAAAADXAAAAAAAAAAAAAAAAAAAA"
-				],
-				[
-					3,
-					1,
-					"insert",
-					{
-						"characters": " "
-					},
-					"AQAAANkAAAAAAAAA2gAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA2QAAAAAAAADZAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					4,
-					1,
-					"left_delete",
-					null,
-					"AQAAANkAAAAAAAAA2QAAAAAAAAABAAAAIA",
-					"AQAAAAAAAAABAAAA2gAAAAAAAADaAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					5,
-					1,
-					"insert",
-					{
-						"characters": "#"
-					},
-					"AQAAANkAAAAAAAAA2gAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA2QAAAAAAAADZAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					6,
-					1,
-					"insert",
-					{
-						"characters": " Summary"
-					},
-					"CAAAANoAAAAAAAAA2wAAAAAAAAAAAAAA2wAAAAAAAADcAAAAAAAAAAAAAADcAAAAAAAAAN0AAAAAAAAAAAAAAN0AAAAAAAAA3gAAAAAAAAAAAAAA3gAAAAAAAADfAAAAAAAAAAAAAADfAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA4QAAAAAAAAAAAAAA4QAAAAAAAADiAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA2gAAAAAAAADaAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					7,
-					1,
-					"insert",
-					{
-						"characters": "\n\n"
-					},
-					"AgAAAOIAAAAAAAAA4wAAAAAAAAAAAAAA4wAAAAAAAADkAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA4gAAAAAAAADiAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					8,
-					1,
-					"paste",
-					null,
-					"AQAAAOQAAAAAAAAAcwQAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA5AAAAAAAAADkAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					12,
-					1,
-					"insert",
-					{
-						"characters": "-"
-					},
-					"AgAAAOQAAAAAAAAA5QAAAAAAAAAAAAAA5QAAAAAAAADlAAAAAAAAAAMAAADil48",
-					"AQAAAAAAAAABAAAA5AAAAAAAAADlAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					19,
-					1,
-					"insert",
-					{
-						"characters": "-"
-					},
-					"AgAAAHkBAAAAAAAAegEAAAAAAAAAAAAAegEAAAAAAAB6AQAAAAAAAAMAAADil48",
-					"AQAAAAAAAAABAAAAeQEAAAAAAAB6AQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					22,
-					1,
-					"insert",
-					{
-						"characters": "-"
-					},
-					"AgAAABICAAAAAAAAEwIAAAAAAAAAAAAAEwIAAAAAAAATAgAAAAAAAAMAAADil48",
-					"AQAAAAAAAAABAAAAEwIAAAAAAAASAgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					25,
-					1,
-					"insert",
-					{
-						"characters": "-"
-					},
-					"AgAAAJYCAAAAAAAAlwIAAAAAAAAAAAAAlwIAAAAAAACXAgAAAAAAAAMAAADil48",
-					"AQAAAAAAAAABAAAAlwIAAAAAAACWAgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					28,
-					1,
-					"insert",
-					{
-						"characters": "-"
-					},
-					"AgAAADgDAAAAAAAAOQMAAAAAAAAAAAAAOQMAAAAAAAA5AwAAAAAAAAMAAADil48",
-					"AQAAAAAAAAABAAAAOQMAAAAAAAA4AwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					31,
-					1,
-					"insert",
-					{
-						"characters": "-"
-					},
-					"AgAAANgDAAAAAAAA2QMAAAAAAAAAAAAA2QMAAAAAAADZAwAAAAAAAAMAAADil48",
-					"AQAAAAAAAAABAAAA2QMAAAAAAADYAwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					34,
-					1,
-					"left_delete",
-					null,
-					"AQAAAHMEAAAAAAAAcwQAAAAAAAABAAAACg",
-					"AQAAAAAAAAABAAAAdAQAAAAAAAB0BAAAAAAAAAAAAAAAACJA"
-				],
-				[
-					60,
-					1,
-					"paste",
-					null,
-					"AgAAANgAAAAAAAAA6hUAAAAAAAAAAAAA6hUAAAAAAADqFQAAAAAAADUQAAAjIyBTdW1tYXJ5CgotIEFjY29tcGxpc2hlZCBEZXNpZ24gTGVhZGVyIGJvYXN0aW5nIG92ZXIgMTUgeWVhcnMgb2YgZXhwZXJpZW5jZSBhY3Jvc3MgYSB3aWRlIGFycmF5IG9mIGluZHVzdHJpZXMsIGluY2x1ZGluZyB0ZWNobm9sb2d5LCBnb3Zlcm5tZW50LCBhbmQgYWNhZGVtaWEuCi0gRXhwZXJ0aXNlIGluIFVYL1VJIGRlc2lnbiwgcHJvZHVjdCBzdHJhdGVneSwgYW5kIGRlc2lnbiByZXNlYXJjaCwgY29uc2lzdGVudGx5IGRlbGl2ZXJpbmcgaW52ZW50aXZlLCB1c2VyLWNlbnRyaWMgc29sdXRpb25zIHRoYXQgY2FwdGl2YXRlIGFuZCBlbmdhZ2UuCi0gQWRlcHQgYXQgYXNzZW1ibGluZyBhbmQgbWVudG9yaW5nIGhpZ2gtcGVyZm9ybWluZyBkZXNpZ24gdGVhbXMsIGZvc3RlcmluZyBhIGN1bHR1cmUgb2YgaW5ub3ZhdGlvbiBhbmQgZHJpdmluZyBwcm9kdWN0IGV4Y2VsbGVuY2UuCi0gRGVtb25zdHJhdGVkIGNvbW1pdG1lbnQgdG8gaW5jbHVzaXZlIGRlc2lnbiwgd2l0aCBhIHJpY2ggYmFja2dyb3VuZCBpbiBpbXBsZW1lbnRpbmcgZGVzaWduIHN5c3RlbXMgYW5kIGFjY2Vzc2liaWxpdHkgc3RhbmRhcmRzIHRoYXQgY2F0ZXIgdG8gZGl2ZXJzZSBhdWRpZW5jZXMuCi0gUHJvZmljaWVudCBpbiBtaXhlZCByZWFsaXR5LCBtb2JpbGUsIGFuZCB3ZWIgZGVzaWduLCB3aXRoIGEgcHJvdmVuIGFiaWxpdHkgdG8gZGV2ZWxvcCBncm91bmQtYnJlYWtpbmcgcHJvZHVjdHMgYW5kIGd1aWRlbGluZXMgdGhhdCBsZWF2ZSBsYXN0aW5nIGltcHJlc3Npb25zLgotIE5hdHVyYWwgY29sbGFib3JhdG9yLCBzZWFtbGVzc2x5IGludGVncmF0aW5nIHdpdGggY3Jvc3MtZnVuY3Rpb25hbCB0ZWFtcyBhbmQgc3Rha2Vob2xkZXJzIHRvIGluc3BpcmUgc3RyYXRlZ2ljIHRoaW5raW5nIGFuZCBwcm9wZWwgb3JnYW5pemF0aW9ucyBmb3J3YXJkLgoKIyMgRXhwZXJpZW5jZQoKKipTRUROQSoqIC0gRGVzaWduIExlYWQsIFNlbmlvciBJbnRlcmFjdGlvbiBEZXNpZ25lciAoT2N0IDIwMjAgLSBEZWMgMjAyMikKCi0gRXN0YWJsaXNoZWQgdXNlci1jZW50cmVkIGRlc2lnbiBwcmFjdGljZSBhbmQgcHJvY2Vzc2VzIHRvIHJlaW52ZW50IGVudGVycHJpc2UgY29tbXVuaWNhdGlvbnMgZm9yIGF1dG9tYXRpb24sIGNvbGxhYm9yYXRpb24gYW5kIHRyYW5zYWN0aW9ucwotIEJ1aWx0IGEgZGVzaWduIHRlYW0gKDR4KSwgaGVscGVkIGltcGxlbWVudCBhIHVzZXIgcmVzZWFyY2ggcHJhY3RpY2UsIG1lbnRvcnNoaXAsIGFuZCBmYWNpbGl0YXRlZCBzdHJhdGVneSB3aXRoIGxlYWRlcnNoaXAgYW5kIGVuZ2luZWVyaW5nCi0gTGVkIG92ZXJoYXVsIG9mIHRoZSB1c2VyIGludGVyZmFjZSBpbmNsdWRpbmcgYWNjZXNzaWJpbGl0eSBzdGFuZGFyZHMKLSBEZXNpZ24gb3BlcmF0aW9ucyBhbmQgc3RhcnRlZCBhbmQgY28tbGVkIGRlc2lnbiBzeXN0ZW0gZWZmb3J0cwotIENhdGVnb3J5IGRlc2lnbiBhbmQgcHJvZHVjdCBzdHJhdGVneQoKKipNaWRkbGVzZXggVW5pdmVyc2l0eSoqIC0gR3Vlc3QgbGVjdHVyZXIgKE1hciAyMDE4IC0gQXVnIDIwMjApCgotIFRhdWdodCBzdG9yeXRlbGxpbmcgZm9yIG1peGVkIHJlYWxpdHkgKE1YUiwgVlIsIEFSKSBhbmQgZmFjaWxpdGF0ZWQgd29ya3Nob3BzIGFuZCBzZW1pbmFycwoKKipQcm90b2NvbCBMYWJzKiogLSBEZXNpZ24gcmVzZWFyY2ggYW5kIHN0cmF0ZWd5IChOb3YgMjAxOSAtIEp1bHkgMjAyMCkKCi0gUmVzZWFyY2hlZCBhbmQgZGVzaWduZWQgZGVzaWduIGd1aWRlbGluZXMgZm9yIGJyb3dzZXIgdG8gYmUgcHVibGlzaGVkIGFuZCBwcmVzZW50ZWQgZm9yIGludGVybmF0aW9uYWwgYnJvd3NlciBzdGFuZGFyZGlzYXRpb24KLSBSZXNlYXJjaGVkIGFuZCBkZXNpZ25lZCBtb2JpbGUgZGVzaWduIGd1aWRlbGluZXMgbGVhZGluZyB0byB0aGUgcmVsZWFzZSBvZiBuYXRpdmUgYXBwcyAoRHVyaW4pCgoqKlVLIE1pbmlzdHJ5IG9mIEp1c3RpY2UqKiAtIFNlbmlvciBJbnRlcmFjdGlvbiBEZXNpZ25lciAoQXByIDIwMTkgLSBOb3YgMjAxOSwgU2VwIDIwMTMgLSBNYXIgMjAxNSkKCi0gRGVzaWduZWQgYW5kIGhlbHBlZCByZXNlYXJjaCBhbiBlbmQtdG8tZW5kIENpdmlsIExlZ2FsIEFpZCBzZXJ2aWNlIHdoaWNoIGluY2x1ZGVkIHRoZSBkZXZlbG9wbWVudCBvZiBhIG5ldyBkZXNpZ24gc3RhbmRhcmQgZm9yIGludGVybmFsIHVzZXJzIGluIGNhc2UgaGFuZGxpbmcKLSBEZXNpZ25lZCBhbmQgaGVscGVkIHJlc2VhcmNoIGEgZ292ZXJubWVudGFsIGNvcnJlc3BvbmRlbmNlIHNlcnZpY2UgZm9yIGluZm9ybWF0aW9uIHJlcXVlc3RzCgoqKlVLIEhvbWUgT2ZmaWNlKiogLSBJbnRlcmFjdGlvbiBhbmQgU2VydmljZSBEZXNpZ25lciAoTWFyIDIwMTUgLSBKdW5lIDIwMTgpCgotIERlc2lnbmVkIGFuZCBoZWxwZWQgcmVzZWFyY2ggYW4gaW52ZXN0aWdhdGlvbiBhbmQgYW5hbHlzaXMgdG9vbCBmb3IgdGhlIFVLIG5hdGlvbmFsIGJvcmRlciBjdXR0aW5nIGNhc2UgaGFuZGxpbmcgdGltZSBpbiBoYWxmCgoqKkludGVsKiogLSBQcm9kdWN0IE1hbmFnZXIsIERlc2lnbiBMZWFkIChKdWwgMjAxMiAtIEF1ZyAyMDEzLCBGZWIgMjAxMiAtIEp1bCAyMDEyKQoKLSBQcm9kdWN0IG1hbmFnZXIsIHByb2R1Y3QgdmlzaW9uIG93bmVyIGFuZCBkZXNpZ24gbGVhZCBmb3IgYSBtdWx0aS1kZXZpY2UsIG11bHRpLXBsYXRmb3JtIG1lZGlhIGV4cGVyaWVuY2UgbWFuYWdpbmcgdGVhbXMgaW4gdGhlIFVLLCBVUywgSXJlbGFuZCBhbmQgSXNyYWVsCi0gRGVzaWduZWQgYSBzZWNvbmQgc2NyZWVuIGNyZWF0aW9uIHN5c3RlbSB0byBoZWxwIHBlb3BsZSB3YXRjaCBUViBiZXR0ZXIgdXRpbGlzaW5nIGEgY3VzdG9tIGJ1aWx0IE5hdHVyYWwgTGFuZ3VhZ2UgUHJvY2Vzc2luZyAoTkxQKQotIERlc2lnbmVkIGFwcHJvYWNoYWJsZSBhbmQgdW5kZXJzdGFuZGFibGUgR1VJLWJhc2VkIGJ1aWxkIHN5c3RlbXMgZm9yIExpbnV4CgoqKkdvb2dsZSoqIC0gSW50ZXJhY3Rpb24gYW5kIEludGVyZmFjZSBEZXNpZ25lciAoU2VwIDIwMTEgLSBEZWMgMjAxMSkKCi0gSGVscGVkIHJlZGVzaWduIGFuZCByZXdvcmsgYW4gYWNxdWlyZWQgcHJvZHVjdCB0byBsb29rLCBhY3QgYW5kIGZlZWwgbGlrZSBhIEdvb2dsZSBwcm9kdWN0Ci0gV29ya2VkIHRvIGRldmVsb3AgdXNlciBpbnRlcmZhY2UgYW5kIGludGVyYWN0aW9uIHN0YW5kYXJkcyBhbmQgZ3VpZGVsaW5lcyBmb3IgbmV3IEdvb2dsZSBwcm9kdWN0cwoKKipUaGUgQ291bmNpbCBvZiBFdXJvcGUqKiAtIERlc2lnbiBhbmQgVGVjaG5vbG9neSBFeHBlcnQgKEp1biAyMDExIC0gRGVjIDIwMTEpCgotIENvbnN1bHRlZCBvbiBlZmZvcnRzIGFuZCBwYXJ0aWNpcGF0ZWQgaW4gaW50ZXJuYXRpb25hbCBzZW1pbmFycyBhYm91dCBicmluZ2luZyB0ZWNobm9sb2d5IGFuZCBkZXNpZ24gdG8gaGlzdG9yeSBlZHVjYXRpb24KCioqSG9yaXpvbiBEaWdpdGFsIEVjb25vbXkgUmVzZWFyY2gqKiAtIFByb2plY3QgTWFuYWdlciwgUmVzZWFyY2ggQXNzb2NpYXRlIChNYXIgMjAxMCAtIEp1bCAyMDExKQoKLSBMZWQgdGhlIGRlc2lnbiBhbmQgcHJvdG90eXBlIGRldmVsb3BtZW50IGFuZCBkZXBsb3ltZW50IG9mIGEgbGFyZ2UsIG11bHRpbmF0aW9uYWwgYWNhZGVtaWMgcmVzZWFyY2ggcHJvamVjdAoKKipTYW1zdW5nIERlc2lnbiBFdXJvcGUqKiAtIExlYWQgTW9iaWxlIEludGVyYWN0aW9uIERlc2lnbmVyIChTZXAgMjAwOCAtIE1hciAyMDEwKQoKLSBMZWFkIFNhbXN1bmcgRXVyb3BlJ3MgZmlyc3QgaW5jbHVzaXZlIGRlc2lnbiBwcm9qZWN0IGludmVzdGlnYXRpbmcgZW5hYmxpbmcgb2xkZXIgcGVvcGxlIHRocm91Z2ggbW9iaWxlIHRlY2hub2xvZ3kKLSBSZXNlYXJjaGVkIGFuZCBwdWJsaXNoZWQgbW9iaWxlIHN1c3RhaW5hYmlsaXR5IGFuZCBhY2Nlc3NpYmlsaXR5IHN0cmF0ZWdpZXMgZm9yIFNhbXN1bmcgaW4gRXVyb3BlCgojIyBFZHVjYXRpb24KCioqUm95YWwgQ29sbGVnZSBvZiBBcnQqKiAtIExvbmRvbiwgVUsgKDIwMDQg4oCTIDIwMDYpPGJyPgpNYXN0ZXIgb2YgQXJ0cywgSW50ZXJhY3Rpb24gRGVzaWduICAKCioqQ2xldmVsYW5kIEluc3RpdHV0ZSBvZiBBcnQqKiAtIENsZXZlbGFuZCwgT0gsIFVTQSAoMTk5NCDigJMgMTk5OCk8YnI+CkJhY2hlbG9yIG9mIEZpbmUgQXJ0cywgR3JhcGhpYyBEZXNpZ24",
-					"AQAAAAAAAAABAAAA2AAAAAAAAAAJEQAAAAAAAAAAAAAAAAAA"
-				],
-				[
-					83,
-					1,
-					"left_delete",
-					null,
-					"AQAAANgAAAAAAAAA2AAAAAAAAAAcAAAACkJhc2VkIG9uIFtbQ1YtRGFsaV1dCgotLS0KCg",
-					"AQAAAAAAAAABAAAA2AAAAAAAAAD0AAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					88,
-					1,
-					"left_delete",
-					null,
-					"AQAAAPcAAAAAAAAA9wAAAAAAAAABAAAAIA",
-					"AQAAAAAAAAABAAAA+AAAAAAAAAD4AAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					89,
-					1,
-					"insert",
-					{
-						"characters": "\\"
-					},
-					"AQAAAPcAAAAAAAAA+AAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA9wAAAAAAAAD3AAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					92,
-					1,
-					"insert",
-					{
-						"characters": "\\"
-					},
-					"AQAAAAwBAAAAAAAADQEAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAADAEAAAAAAAAMAQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					98,
-					1,
-					"insert",
-					{
-						"characters": "&nsbp;"
-					},
-					"BwAAAPYAAAAAAAAA9wAAAAAAAAAAAAAA9wAAAAAAAAD3AAAAAAAAAAEAAAAg9wAAAAAAAAD4AAAAAAAAAAAAAAD4AAAAAAAAAPkAAAAAAAAAAAAAAPkAAAAAAAAA+gAAAAAAAAAAAAAA+gAAAAAAAAD7AAAAAAAAAAAAAAD7AAAAAAAAAPwAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA9wAAAAAAAAD2AAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					103,
-					1,
-					"paste",
-					null,
-					"AQAAAPwAAAAAAAAAAgEAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA/AAAAAAAAAD8AAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					106,
-					2,
-					"paste",
-					null,
-					"AwAAAAQBAAAAAAAACgEAAAAAAAAAAAAACgEAAAAAAAAKAQAAAAAAAAEAAAAgCgEAAAAAAAAQAQAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABAEAAAAAAAAFAQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					110,
-					2,
-					"paste",
-					null,
-					"AwAAACABAAAAAAAAJgEAAAAAAAAAAAAAJgEAAAAAAAAmAQAAAAAAAAIAAAAgICYBAAAAAAAALAEAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAIAEAAAAAAAAiAQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					113,
-					2,
-					"paste",
-					null,
-					"AwAAAC4BAAAAAAAANAEAAAAAAAAAAAAANAEAAAAAAAA0AQAAAAAAAAEAAAAgNAEAAAAAAAA6AQAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAALgEAAAAAAAAvAQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					118,
-					2,
-					"left_delete",
-					null,
-					"AgAAAPkAAAAAAAAA+QAAAAAAAAABAAAAYvgAAAAAAAAA+AAAAAAAAAABAAAAcw",
-					"AQAAAAAAAAABAAAA+gAAAAAAAAD6AAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					119,
-					1,
-					"insert",
-					{
-						"characters": "bs"
-					},
-					"AgAAAPgAAAAAAAAA+QAAAAAAAAAAAAAA+QAAAAAAAAD6AAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA+AAAAAAAAAD4AAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					125,
-					1,
-					"paste",
-					null,
-					"AgAAAPwAAAAAAAAAAgEAAAAAAAAAAAAAAgEAAAAAAAACAQAAAAAAAAYAAAAmbnNicDs",
-					"AQAAAAAAAAABAAAA/AAAAAAAAAACAQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					129,
-					2,
-					"paste",
-					null,
-					"AwAAAAQBAAAAAAAACgEAAAAAAAAAAAAACgEAAAAAAAAKAQAAAAAAAAwAAAAmbnNicDsmbnNicDsKAQAAAAAAABABAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABAEAAAAAAAAQAQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					132,
-					2,
-					"paste",
-					null,
-					"AwAAACABAAAAAAAAJgEAAAAAAAAAAAAAJgEAAAAAAAAmAQAAAAAAAAwAAAAmbnNicDsmbnNicDsmAQAAAAAAACwBAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAIAEAAAAAAAAsAQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					136,
-					2,
-					"paste",
-					null,
-					"AwAAAC4BAAAAAAAANAEAAAAAAAAAAAAANAEAAAAAAAA0AQAAAAAAAAwAAAAmbnNicDsmbnNicDs0AQAAAAAAADoBAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAALgEAAAAAAAA6AQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					139,
-					3,
-					"left_delete",
-					null,
-					"AwAAANcAAAAAAAAA1wAAAAAAAABxAAAACiMgSmltIEtvc2VtIC0gQ1YKCkppbWtvc2VtLmNvbSZuYnNwOyZuYnNwO1x8Jm5ic3A7Jm5ic3A7amltQGppbWtvc2VtLmNvbSZuYnNwOyZuYnNwO1x8Jm5ic3A7Jm5ic3A7KzM4NiA2ODE2NDI1MSDWAAAAAAAAANYAAAAAAAAAAQAAAArVAAAAAAAAANUAAAAAAAAAAQAAAAo",
-					"AQAAAAAAAAABAAAASAEAAAAAAADXAAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -319,6 +19,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"teer",
+				"Terminus: Toggle Panel"
+			],
 			[
 				"termin",
 				"Terminus: Toggle Panel"
@@ -393,8 +97,9 @@
 	],
 	"file_history":
 	[
-		"/Users/jimkosem/Documents/GitHub/jk-portfolio/index.md",
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/faq.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/cv.md",
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/index.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_layouts/default.html",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_includes/header.html",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/hummingbot.md",
@@ -402,7 +107,6 @@
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/sedna.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/yleos.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/talks.md",
-		"/Users/jimkosem/Documents/GitHub/jk-portfolio/faq.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/assets/images/yleos-review1-1440.png",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_config.yml",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/ipfs-mobile.md",
@@ -452,36 +156,6 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "cv.md",
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5511,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								213,
-								213
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		}
 	],
