@@ -22,11 +22,11 @@ Experienced UX/UI Designer Crafting Innovative Solutions
 ## Experience 
 
 **SEDNA** - Design Lead, Senior Interaction Designer (Oct 2020 - Dec 2022)
-- Pioneered user-centred design methodologies to revolutionize enterprise communications for automation, collaboration and transactions.
+- Pioneered user-centred design methodologies to revolutionise enterprise communications for automation, collaboration and transactions.
 - Assembled and mentored a high-performing design team of 8, driving user research practices and fostering strategic collaboration with leadership and engineering.
 - Led a comprehensive user interface overhaul, ensuring adherence to accessibility standards and enhancing the overall user experience.
 - Streamlined design operations and co-led the development of a robust design system, optimizing processes and product consistency.
-- Shaped category design and product strategy, guiding the organization toward innovative and market-leading solutions.
+- Shaped category design and product strategy, guiding the organisation toward innovative and market-leading solutions.
 
 **Middlesex University** - Guest lecturer (Mar 2018 - Aug 2020)
 - Instructed students in the art of storytelling for mixed reality (MXR, VR, AR), equipping them with cutting-edge design and narrative techniques and best practices.

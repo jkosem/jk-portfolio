@@ -7,6 +7,90 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "cv.md",
+			"settings":
+			{
+				"buffer_size": 5511,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"left_delete",
+					null,
+					"AQAAAMoEAAAAAAAAygQAAAAAAAABAAAAeg",
+					"AQAAAAAAAAABAAAAywQAAAAAAADLBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAMoEAAAAAAAAywQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAygQAAAAAAADKBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"left_delete",
+					null,
+					"AQAAALEHAAAAAAAAsQcAAAAAAAABAAAAeg",
+					"AQAAAAAAAAABAAAAsgcAAAAAAACyBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAALEHAAAAAAAAsgcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsQcAAAAAAACxBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAKkJAAAAAAAAqgkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqQkAAAAAAACpCQAAAAAAAAAAAAAAkIJA"
+				],
+				[
+					14,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKkJAAAAAAAAqQkAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAqgkAAAAAAACqCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHMFAAAAAAAAcwUAAAAAAAABAAAAeg",
+					"AQAAAAAAAAABAAAAdAUAAAAAAAB0BQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAHMFAAAAAAAAdAUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcwUAAAAAAABzBQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -20,11 +104,11 @@
 		"selected_items":
 		[
 			[
-				"teer",
+				"termin",
 				"Terminus: Toggle Panel"
 			],
 			[
-				"termin",
+				"teer",
 				"Terminus: Toggle Panel"
 			],
 			[
@@ -135,6 +219,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"ize"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -156,6 +241,36 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "cv.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1396,
+								1396
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 209.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
