@@ -8,7 +8,7 @@ author: Jim
 
 [jimkosem.com](https://jimkosem.com)&nbsp;&nbsp;\|&nbsp;&nbsp;[jim@jimkosem.com](mailto:jim@jimkosem.com)&nbsp;&nbsp;\|&nbsp;&nbsp;+386 68164251
 
-Experienced UX/UI Designer Crafting Innovative Solutions
+Experienced Product/UX Designer Crafting Innovative Solutions
 
 ## Summary
 
@@ -23,16 +23,16 @@ Experienced UX/UI Designer Crafting Innovative Solutions
 
 **SEDNA** - Design Lead, Senior Interaction Designer (Oct 2020 - Dec 2022)
 - Pioneered user-centred design methodologies to revolutionise enterprise communications for automation, collaboration and transactions.
-- Assembled and mentored a high-performing design team of 8, driving user research practices and fostering strategic collaboration with leadership and engineering.
+- Assembled and mentored a high-performing design team of 8, driving user research practices and fostering strategic collaboration with leadership and engineering which increased user satisfaction 17%
 - Led a comprehensive user interface overhaul, ensuring adherence to accessibility standards and enhancing the overall user experience.
-- Streamlined design operations and co-led the development of a robust design system, optimizing processes and product consistency.
+- Streamlined design operations and co-led the development of a robust design system, optimising processes and product consistency.
 - Shaped category design and product strategy, guiding the organisation toward innovative and market-leading solutions.
 
 **Middlesex University** - Guest lecturer (Mar 2018 - Aug 2020)
 - Instructed students in the art of storytelling for mixed reality (MXR, VR, AR), equipping them with cutting-edge design and narrative techniques and best practices.
 
 **Protocol Labs** - Design research and strategy (Nov 2019 - July 2020)
-- Researched and crafted design guidelines for browser standardization, contributing to the evolution of international browser standards (IETF).
+- Researched and crafted design guidelines for browser standardisation, contributing to the evolution of international browser standards (IETF).
 - Conducted extensive research, developed and executed mobile design guidelines, culminating in the successful launch of native applications, including the Durin native app.
 
 **UK Ministry of Justice** - Senior Interaction Designer (Apr 2019 - Nov 2019, Sep 2013 - Mar 2015)

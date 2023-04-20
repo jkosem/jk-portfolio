@@ -7,6 +7,134 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "cv.md",
+			"settings":
+			{
+				"buffer_size": 5548,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"left_delete",
+					null,
+					"AQAAAMoEAAAAAAAAygQAAAAAAAABAAAAeg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADLBAAAAAAAAMsEAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAMoEAAAAAAAAywQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADKBAAAAAAAAMoEAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					9,
+					1,
+					"left_delete",
+					null,
+					"AQAAALEHAAAAAAAAsQcAAAAAAAABAAAAeg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyBwAAAAAAALIHAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAALEHAAAAAAAAsgcAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACxBwAAAAAAALEHAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAKkJAAAAAAAAqgkAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACpCQAAAAAAAKkJAAAAAAAAAAAAAACQgkA"
+				],
+				[
+					14,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKkJAAAAAAAAqQkAAAAAAAABAAAAIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACqCQAAAAAAAKoJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					34,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHMFAAAAAAAAcwUAAAAAAAABAAAAeg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB0BQAAAAAAAHQFAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAHMFAAAAAAAAdAUAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABzBQAAAAAAAHMFAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					7,
+					1,
+					"paste",
+					null,
+					"AgAAAMAFAAAAAAAAiAYAAAAAAAAAAAAAiAYAAAAAAACIBgAAAAAAAKMAAAAtIEFzc2VtYmxlZCBhbmQgbWVudG9yZWQgYSBoaWdoLXBlcmZvcm1pbmcgZGVzaWduIHRlYW0gb2YgOCwgZHJpdmluZyB1c2VyIHJlc2VhcmNoIHByYWN0aWNlcyBhbmQgZm9zdGVyaW5nIHN0cmF0ZWdpYyBjb2xsYWJvcmF0aW9uIHdpdGggbGVhZGVyc2hpcCBhbmQgZW5naW5lZXJpbmcu",
+					"AQAAAAAAAAABAAAAYwYAAAAAAADABQAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					10,
+					1,
+					"left_delete",
+					null,
+					"AQAAAG0HAAAAAAAAbQcAAAAAAAABAAAAeg",
+					"AQAAAAAAAAABAAAAbgcAAAAAAABuBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAG0HAAAAAAAAbgcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbQcAAAAAAABtBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"left_delete",
+					null,
+					"AQAAAH4JAAAAAAAAfgkAAAAAAAABAAAAeg",
+					"AQAAAAAAAAABAAAAfwkAAAAAAAB/CQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAH4JAAAAAAAAfwkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfgkAAAAAAAB+CQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -20,11 +148,19 @@
 		"selected_items":
 		[
 			[
-				"teer",
+				"ter",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"temr",
 				"Terminus: Toggle Panel"
 			],
 			[
 				"termin",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"teer",
 				"Terminus: Toggle Panel"
 			],
 			[
@@ -37,10 +173,6 @@
 			],
 			[
 				"terminal",
-				"Terminus: Toggle Panel"
-			],
-			[
-				"ter",
 				"Terminus: Toggle Panel"
 			],
 			[
@@ -135,6 +267,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"iz",
+			"ize"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -156,6 +290,36 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "cv.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4697,
+								4699
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1139.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
