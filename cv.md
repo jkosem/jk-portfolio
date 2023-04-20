@@ -21,7 +21,7 @@ Experienced Product/UX Designer Crafting Innovative Solutions
 
 ## Experience 
 
-**SEDNA** - Design Lead, Senior Interaction Designer (Oct 2020 - Dec 2022)
+**SEDNA** - Design Lead, Senior Product/Interaction Designer (Oct 2020 - Dec 2022)
 - Pioneered user-centred design methodologies to revolutionise enterprise communications for automation, collaboration and transactions.
 - Assembled and mentored a high-performing design team of 8, driving user research practices and fostering strategic collaboration with leadership and engineering which increased user satisfaction 17%
 - Led a comprehensive user interface overhaul, ensuring adherence to accessibility standards and enhancing the overall user experience.
@@ -31,7 +31,7 @@ Experienced Product/UX Designer Crafting Innovative Solutions
 **Middlesex University** - Guest lecturer (Mar 2018 - Aug 2020)
 - Instructed students in the art of storytelling for mixed reality (MXR, VR, AR), equipping them with cutting-edge design and narrative techniques and best practices.
 
-**Protocol Labs** - Design research and strategy (Nov 2019 - July 2020)
+**Protocol Labs** - Product Design, User Researcher and Product Strategy (Nov 2019 - July 2020)
 - Researched and crafted design guidelines for browser standardisation, contributing to the evolution of international browser standards (IETF).
 - Conducted extensive research, developed and executed mobile design guidelines, culminating in the successful launch of native applications, including the Durin native app.
 
@@ -39,7 +39,7 @@ Experienced Product/UX Designer Crafting Innovative Solutions
 - Collaborated on research and design for a comprehensive Civil Legal Aid service, establishing a new design standard to streamline case handling for internal and external users resulting in one of the first completely digital, end-to-end, governmental services
 - Contributed to the research and design of a government correspondence service, enhancing the accessibility and efficiency of information requests.
 
-**UK Home Office** - Interaction and Service Designer (Mar 2015 - June 2018) 
+**UK Home Office** - Senior Interaction/Service Designer (Mar 2015 - June 2018) 
 - Collaborated on research and design for an innovative investigation and analysis tool for the UK national border, dramatically reducing case handling time by 50%.
 
 **Intel** - Product Manager, Design Lead (Jul 2012 - Aug 2013, Feb 2012 - Jul 2012)
@@ -47,7 +47,7 @@ Experienced Product/UX Designer Crafting Innovative Solutions
 - Devised a second screen creation system, enhancing TV viewing experiences through the integration of a custom-built Natural Language Processing (NLP) technology.
 - Crafted an intuitive and user-friendly GUI-based build systems for Linux (Yocto), promoting usability and ease of adoption.
 
-**Google** - Interaction and Interface Designer (Sep 2011 - Dec 2011)
+**Google** - Product/Interaction Designer (Sep 2011 - Dec 2011)
 - Collaborated on the redesign and rework of an acquired product (Google Compare), aligning it with Google's design language and user experience principles while exploring new paradigms and design patterns.
 - Contributed to the development of user interface and interaction standards, helping establish guidelines for the creation of new Google products.
 
