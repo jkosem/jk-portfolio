@@ -11,13 +11,10 @@
 			"file": "cv.md",
 			"settings":
 			{
-				"buffer_size": 5553,
+				"buffer_size": 5582,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-			]
+			}
 		}
 	],
 	"build_system": "",
@@ -108,8 +105,7 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/jimkosem/Documents/GitHub/jk-portfolio",
-		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_includes"
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio"
 	],
 	"file_history":
 	[
@@ -181,15 +177,15 @@
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 5553,
+						"buffer_size": 5582,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1263,
-								1263
+								0,
+								0
 							]
 						],
 						"settings":
