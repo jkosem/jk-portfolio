@@ -6,11 +6,29 @@ author: Jim
 
 # Landscapes of (Re)Conquest
 
+## Overview & Challenge
+
+Landscapes of (Re)Conquest is a journey though the history of the Iberian Peninsula from AD 711 to 1492 using Augmented Reality (AR). The challenge was brought to light by the Spanish government and tourism experts who sought ways get visitors to Spain inland from the coasts where 92% of them go. This was in conjunction with the intent to teach these visitors about Spanish and Iberian history as well as help them explore local wine and food products.
+
+## Role
+
+I've been collaborating with an interdisciplinary team of designers, software developers, archeologists, museum curators, historical content creators and archivists, tour guides and wine experts. We're also partnering with regional governments in Spain, France and various university partners.
+
+University of Reading (UK)<br />
+Universidad de Granada (Spain)<br />
+University of York (UK)<br />
+Université de Perpignan – UPVD (France)<br />
+Université de Paris 1 Panthéon-Sorbonne (France)<br />
+Université de La Rochelle (France)<br />
+Acter Archeologie, Pézilla-la-Rivière (France)<br />
+UNESCO Geopark of Molina de Aragón – Alto Tajo (Spain)<br />
+Museum of the Order of St. John, London (UK)<br />
+
+## Results
+
 ![]({{site.url}}assets/images/landscapes-title.png)
 
-Landscapes of (Re)Conquest is a journey though the history of the Iberian Peninsula from AD 711 to 1492 using Augmented Reality (AR). The visitor will be able to view and interact with an immersive technology timeline showing them what the past looked like during this tumultuous period of transition from Muslim to Christian rule. The experience will show the visitor how life, politics and agriculture worked visually, but will also act as a guide in exploring the local wine and food production which reflect this history.
-
-The interdisciplinary team for Landscapes of (Re)Conquest consists of interaction designers, software developers, archeologists, museum curators, historical content creators and archivists, tour guides and wine experts partnering with regional governments in Spain, France and various university partners.
+The visitor will be able to view and interact with an immersive technology timeline showing them what the past looked like during this tumultuous period of transition from Muslim to Christian rule. The experience will show the visitor how life, politics and agriculture worked visually, but will also act as a guide in exploring the local wine and food production which reflect this history.
 
 ![]({{site.url}}assets/images/landscapes-visitormatrix.jpg)
 
@@ -42,15 +60,3 @@ We’re looking at how to map out the experience for the AR to support the lands
 Eventually we plan that the data of the Landscapes of (Re)Conquest experience will be provided to handset browsers by solar powered birdhouse servers. These will create a local, wifi mesh network providing the visitor with free, redundant content that ties the stories to the land where it took place.
 
 Landscapes of Reconquest is currently funded by The Arts and Humanities Research Council (UK) and awaiting further funding by the EU.
-
-#### Project partners
-
-University of Reading (UK)<br />
-Universidad de Granada (Spain)<br />
-University of York (UK)<br />
-Université de Perpignan – UPVD (France)<br />
-Université de Paris 1 Panthéon-Sorbonne (France)<br />
-Université de La Rochelle (France)<br />
-Acter Archeologie, Pézilla-la-Rivière (France)<br />
-UNESCO Geopark of Molina de Aragón – Alto Tajo (Spain)<br />
-Museum of the Order of St. John, London (UK)<br />
