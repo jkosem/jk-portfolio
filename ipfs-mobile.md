@@ -4,6 +4,8 @@ title: "IPFS Mobile Design Guidelines"
 author: Jim
 ---
 
+# IPFS Mobile Design Guidelines
+
 ## Overview & Challenge
 
 <p>Based on the work started at <a href="https://protocol.ai/" target="_blank">Protocol Labs</a> with the <a href="ipfs-browser">IPFS Browser Design Guidelines</a>, Protocol Labs was interested developing guides and best practices to building a safer, faster Peer-to-Peer (P2P) Internet to everyone with a smartphone.</p>
