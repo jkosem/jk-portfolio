@@ -68,10 +68,6 @@ h2, h3 {
   bottom: 0px;
 }
 
-.footer p {
-  color: #A3BFA8;
-}
-
 img {
   width: 100%;
   height: auto;
@@ -108,7 +104,7 @@ nav.name {
 
 a {
   font-weight: 600;
-  color: #BE6E46;
+  color: #7B5D67;
   text-decoration: none;
 }
 

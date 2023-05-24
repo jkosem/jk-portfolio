@@ -7,142 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "siemens.md",
-			"settings":
-			{
-				"buffer_size": 1868,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-				[
-					7,
-					2,
-					"left_delete",
-					null,
-					"AgAAAFQGAAAAAAAAVAYAAAAAAACmAAAAIVtdKHt7c2l0ZS51cmx9fWFzc2V0cy9pbWFnZXMvc2llbWVucy13aXJlZnJhbWUtMi5wbmcpCgohW10oe3tzaXRlLnVybH19YXNzZXRzL2ltYWdlcy9zaWVtZW5zLXdpcmVmcmFtZS0zLnBuZykKCiFbXSh7e3NpdGUudXJsfX1hc3NldHMvaW1hZ2VzL3NpZW1lbnMtd2lyZWZyYW1lLTQucG5nKVMGAAAAAAAAUwYAAAAAAAABAAAACg",
-					"AQAAAAAAAAABAAAA+gYAAAAAAABUBgAAAAAAAAAAAAAAAAAA"
-				],
-				[
-					11,
-					1,
-					"left_delete",
-					null,
-					"AQAAAFIGAAAAAAAAUgYAAAAAAAABAAAACg",
-					"AQAAAAAAAAABAAAAUwYAAAAAAABTBgAAAAAAAAAAAAAAAAAA"
-				],
-				[
-					13,
-					2,
-					"left_delete",
-					null,
-					"AgAAAEwGAAAAAAAATAYAAAAAAAABAAAAMUsGAAAAAAAASwYAAAAAAAABAAAALQ",
-					"AQAAAAAAAAABAAAATQYAAAAAAABNBgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					14,
-					1,
-					"insert",
-					{
-						"characters": "s"
-					},
-					"AQAAAEsGAAAAAAAATAYAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAASwYAAAAAAABLBgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					23,
-					3,
-					"left_delete",
-					null,
-					"AwAAAEEAAAAAAAAAQQAAAAAAAAAsAAAAIVtdKHt7c2l0ZS51cmx9fWFzc2V0cy9pbWFnZXMvc2llbWVucy0xLnBuZylAAAAAAAAAAEAAAAAAAAAAAQAAAAo/AAAAAAAAAD8AAAAAAAAAAQAAAAo",
-					"AQAAAAAAAAABAAAAQQAAAAAAAABtAAAAAAAAAP///////+9/"
-				],
-				[
-					27,
-					1,
-					"cut",
-					null,
-					"AQAAAEEAAAAAAAAAQQAAAAAAAAAsAAAAW2F0bGFzLmRjLnNpZW1lbnMuY29tXShhdGxhcy5kYy5zaWVtZW5zLmNvbSk",
-					"AQAAAAAAAAABAAAAbQAAAAAAAABBAAAAAAAAAAAAAAAAAAAA"
-				],
-				[
-					28,
-					2,
-					"left_delete",
-					null,
-					"AgAAAEAAAAAAAAAAQAAAAAAAAAABAAAACj8AAAAAAAAAPwAAAAAAAAABAAAACg",
-					"AQAAAAAAAAABAAAAQQAAAAAAAABBAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					36,
-					1,
-					"insert",
-					{
-						"characters": "\n"
-					},
-					"AQAAAAcHAAAAAAAACAcAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABwcAAAAAAAAHBwAAAAAAAP///////+9/"
-				],
-				[
-					40,
-					1,
-					"paste",
-					null,
-					"AQAAAAgHAAAAAAAANAcAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAACAcAAAAAAAAIBwAAAAAAAAAAAAAAAAAA"
-				],
-				[
-					45,
-					1,
-					"insert",
-					{
-						"characters": " Atlas"
-					},
-					"BgAAAD8AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABBAAAAAAAAAAAAAABBAAAAAAAAAEIAAAAAAAAAAAAAAEIAAAAAAAAAQwAAAAAAAAAAAAAAQwAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEUAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAPwAAAAAAAAA/AAAAAAAAAP///////+9/"
-				],
-				[
-					46,
-					1,
-					"insert",
-					{
-						"characters": " of"
-					},
-					"AwAAAEUAAAAAAAAARgAAAAAAAAAAAAAARgAAAAAAAABHAAAAAAAAAAAAAABHAAAAAAAAAEgAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAARQAAAAAAAABFAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					47,
-					1,
-					"insert",
-					{
-						"characters": " Digitl"
-					},
-					"BwAAAEgAAAAAAAAASQAAAAAAAAAAAAAASQAAAAAAAABKAAAAAAAAAAAAAABKAAAAAAAAAEsAAAAAAAAAAAAAAEsAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABNAAAAAAAAAAAAAABNAAAAAAAAAE4AAAAAAAAAAAAAAE4AAAAAAAAATwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					48,
-					1,
-					"left_delete",
-					null,
-					"AQAAAE4AAAAAAAAATgAAAAAAAAABAAAAbA",
-					"AQAAAAAAAAABAAAATwAAAAAAAABPAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					49,
-					1,
-					"insert",
-					{
-						"characters": "alisation"
-					},
-					"CQAAAE4AAAAAAAAATwAAAAAAAAAAAAAATwAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFEAAAAAAAAAAAAAAFEAAAAAAAAAUgAAAAAAAAAAAAAAUgAAAAAAAABTAAAAAAAAAAAAAABTAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAVQAAAAAAAAAAAAAAVQAAAAAAAABWAAAAAAAAAAAAAABWAAAAAAAAAFcAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAATgAAAAAAAABOAAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -156,15 +20,15 @@
 		"selected_items":
 		[
 			[
+				"ter",
+				"Terminus: Toggle Panel"
+			],
+			[
 				"termin",
 				"Terminus: Toggle Panel"
 			],
 			[
 				"term",
-				"Terminus: Toggle Panel"
-			],
-			[
-				"ter",
 				"Terminus: Toggle Panel"
 			],
 			[
@@ -233,15 +97,18 @@
 	"expanded_folders":
 	[
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio",
-		"/Users/jimkosem/Documents/GitHub/jk-portfolio/assets",
-		"/Users/jimkosem/Documents/GitHub/jk-portfolio/assets/css"
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_site"
 	],
 	"file_history":
 	[
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/ipfs-mobile.md",
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/yleos.md",
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_site/index.html",
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/assets/css/main.scss",
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/siemens.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/index.sublime-project",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/landscapesofreconquest.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/bastion.md",
-		"/Users/jimkosem/Documents/GitHub/jk-portfolio/siemens.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/cv.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/faq.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/index.md",
@@ -250,17 +117,14 @@
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/hummingbot.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/ipfs-browser.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/sedna.md",
-		"/Users/jimkosem/Documents/GitHub/jk-portfolio/yleos.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/talks.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/assets/images/yleos-review1-1440.png",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_config.yml",
-		"/Users/jimkosem/Documents/GitHub/jk-portfolio/ipfs-mobile.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_site/ipfs-mobile.html",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_includes/collecttags.html",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/tag/service.md",
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_includes/tagpage.html",
-		"/Users/jimkosem/Documents/GitHub/jk-portfolio/archive.md",
-		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_site/index.html"
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/archive.md"
 	],
 	"find":
 	{
@@ -301,36 +165,6 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "siemens.md",
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1868,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								53,
-								53
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 8.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		}
 	],
