@@ -7,6 +7,138 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "assets/css/main.scss",
+			"settings":
+			{
+				"buffer_size": 2610,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "999"
+					},
+					"BAAAAEMJAAAAAAAARAkAAAAAAAAAAAAARAkAAAAAAABECQAAAAAAAAYAAABCRTZFNDZECQAAAAAAAEUJAAAAAAAAAAAAAEUJAAAAAAAARgkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQwkAAAAAAABJCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"paste",
+					null,
+					"AgAAAEMJAAAAAAAASQkAAAAAAAAAAAAASQkAAAAAAABJCQAAAAAAAAMAAAA5OTk",
+					"AQAAAAAAAAABAAAAQwkAAAAAAABGCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "//"
+					},
+					"AgAAALEJAAAAAAAAsgkAAAAAAAAAAAAAsgkAAAAAAACzCQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsQkAAAAAAACxCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAALMJAAAAAAAAtAkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAswkAAAAAAACzCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "//"
+					},
+					"AgAAAJAJAAAAAAAAkQkAAAAAAAAAAAAAkQkAAAAAAACSCQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkAkAAAAAAACQCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAJIJAAAAAAAAkwkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkgkAAAAAAACSCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					3,
+					"left_delete",
+					null,
+					"AwAAALYJAAAAAAAAtgkAAAAAAAABAAAAILUJAAAAAAAAtQkAAAAAAAABAAAAL7QJAAAAAAAAtAkAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAAtwkAAAAAAAC3CQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJAJAAAAAAAAkAkAAAAAAAADAAAALy8g",
+					"AQAAAAAAAAABAAAAkAkAAAAAAACTCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					2,
+					"left_delete",
+					null,
+					"AgAAAIoHAAAAAAAAigcAAAAAAAACAAAAICCGBwAAAAAAAIYHAAAAAAAABAAAACAgICA",
+					"AQAAAAAAAAABAAAAjAcAAAAAAACMBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": "\t///"
+					},
+					"BAAAAIYHAAAAAAAAigcAAAAAAAAAAAAAigcAAAAAAACLBwAAAAAAAAAAAACLBwAAAAAAAIwHAAAAAAAAAAAAAIwHAAAAAAAAjQcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhgcAAAAAAACGBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAI0HAAAAAAAAjgcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjQcAAAAAAACNBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					2,
+					"left_delete",
+					null,
+					"AgAAAI0HAAAAAAAAjQcAAAAAAAABAAAAIIwHAAAAAAAAjAcAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAAjgcAAAAAAACOBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAIwHAAAAAAAAjQcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjAcAAAAAAACMBwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -20,11 +152,11 @@
 		"selected_items":
 		[
 			[
-				"ter",
+				"termin",
 				"Terminus: Toggle Panel"
 			],
 			[
-				"termin",
+				"ter",
 				"Terminus: Toggle Panel"
 			],
 			[
@@ -97,7 +229,13 @@
 	"expanded_folders":
 	[
 		"/Users/jimkosem/Documents/GitHub/jk-portfolio",
-		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_site"
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_includes",
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_layouts",
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_site",
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_site/assets",
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/_site/assets/css",
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/assets",
+		"/Users/jimkosem/Documents/GitHub/jk-portfolio/assets/css"
 	],
 	"file_history":
 	[
@@ -165,6 +303,38 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "assets/css/main.scss",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2083,
+								2083
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1710.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],

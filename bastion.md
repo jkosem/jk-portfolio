@@ -8,11 +8,11 @@ author: Jim
 
 ## Overview & Challenge
 
-Most apps and e-readers are focused on one thing, trying to shove thousands of years of printed reading into a device as is. I don't think it should be this way. The novel is purported to be over 400 years old, but the way we read today is not. Yet, books and narrative worlds are still presented the same way. I was interested in how design can help try and address this.
+Most apps and e-readers are focused on one thing, trying to shove thousands of years of printed reading into a device as is. I don't think it should be this way. The novel is purported to be over 400 years old, but the way we read today is not. Yet, books and narrative worlds are still presented the same way. I was interested in how design can help try and make reading in our world today better.
 
 ## Role
 
-Bastion was a self-initiated project in which my roles ranged from everything from managing the product development, to user experience and user interface design to outreach and public engagement. In short, I did just about all of it.
+Bastion was a self-initiated project in which my roles ranged from everything from managing the product development, to user experience and user interface design to outreach and public engagement. In short, I did just about all of it except the actual coding.
 
 ## Results
 
@@ -28,11 +28,11 @@ Bastion is a platform where the reader can choose how they want to read, choosin
 
 ...or time, or location on a map.
 
-There is a content management system where authors and editors can work together to publish on the Bastion platform, creating successive versions of their books which they can keep on expanding and growing in points of view, times and locations. This publishes to the mobile app available on the iOS App Store.
+There was a content management system where authors and editors could work together to publish on the Bastion platform, creating successive versions of their books which they can keep on expanding and growing in points of view, times and locations. This published the book versions to the mobile app that was available on the iOS App Store.
 
 ![]({{site.url}}assets/images/bastion-admin1.png)
 
-I also worked on analytics for the platform, designing a way to see what works for readers and how, looking at how we'll read each scene, point of view, etc. are.
+There were designs for analytics for the platform, designing a way to see what works for readers and how, looking at how we'll read each scene, point of view, etc. are.
 
 ![]({{site.url}}assets/images/bastion-admin2.png)
 
