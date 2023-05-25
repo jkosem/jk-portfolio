@@ -18,8 +18,8 @@ $font-display: 'Roboto Slab', serif;
     .content {
         margin: auto;
         padding-bottom: 23px;
-        margin-left: 300px;
-        margin-right: 300px;
+        margin-left: 200px;
+        margin-right: 200px;
         max-width: 760px;
     }
 }
@@ -57,6 +57,32 @@ h2, h3 {
 .content {
     height: 100%;
 }
+
+
+// https://matthewjamestaylor.com/2-column-layouts
+
+/* container */
+.responsive-two-column-grid {
+    // display:block;
+    display:flex;
+    column-gap:1rem;
+}
+
+/* columns */
+.responsive-two-column-grid > * {
+    // padding:1rem;
+    width:calc(100% - 0.25rem);
+}
+
+/* tablet breakpoint */
+@media (min-width:768px) {
+    .responsive-two-column-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+
 
 // hr {
 //   padding: 0;
