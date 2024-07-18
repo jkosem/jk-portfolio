@@ -19,6 +19,14 @@ few examples of what all of this looks like, and there is more in the [archive](
 
 &nbsp;
 
+[![Textile Tableland Studio]({{site.url}}assets/images/tablelandstudio-card-m.png)](textile-tablelandstudio.html)
+
+#### [Textile Tableland Studio](textile-tablelandstudio.html)
+
+Creating a complete distributed database solution web app from a command line
+
+&nbsp;
+
 [![SEDNA]({{site.url}}assets/images/sedna-card-m.jpg)](sedna.html)
 
 #### [SEDNA](sedna.html)
@@ -35,7 +43,7 @@ Reinventing interviewing with AI and structured output
 
 &nbsp;
 
-[![IPFS Mobile Design guidelines]({{site.url}}assets/images/ipfs-mobile-card-m.png)](ipfs-mobile.html)
+[![IPFS Mobile Design guidelines]({{site.url}}assets/images/ipfs-mobile-card.png)](ipfs-mobile.html)
 
 #### [IPFS Mobile Design guidelines](ipfs-mobile.html)
 
@@ -43,7 +51,7 @@ Bringing the power, safety and speed of a P2P internet to everyone
 
 &nbsp;
 
-[![IPFS Browser Design Guidelines]({{site.url}}assets/images/ipfs-browser-card-m.png)](ipfs-browser.html)
+[![IPFS Browser Design Guidelines]({{site.url}}assets/images/ipfs-browser-card.png)](ipfs-browser.html)
 
 #### [IPFS Browser Design Guidelines](ipfs-browser.html)
 
