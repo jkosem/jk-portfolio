@@ -11,7 +11,7 @@ tags: interaction, interface, research
 
 [Textile](https://www.textile.io) is a data technology company, with the mission to enable open, accessible, and free information by build open technologies backed by open processes.
 
-Much of my work at Textile was on Tableland, and in particular [Tableland Studio](https://studio.tableland.xyz/), which is an open source, permissionless cloud database built on SQLite. Our mission was to take various console and command line tools and build out a complete web application whilst building the community to use and support Tableland.
+Much of my work at Textile was on [Tableland](https://tableland.xyz/), and in particular [Tableland Studio](https://studio.tableland.xyz/), which is an open source, permissionless cloud database built on SQLite. Our mission was to take various console and command line tools and build out a complete web application whilst building the community to use and support Tableland.
 
 ## Role & Approach
 
