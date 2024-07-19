@@ -5,6 +5,10 @@ title: "Jim Kosem: Talks"
 
 # Talks, seminars & exhibitions
 
+11-13 July, 2024 - IPFS Camp 2024 (Brussels, Belgium)
+
+16 Nov 2023 - IPFS Connect (Istanbul, Turkey)
+
 2-7 Feb 2020 - IxDA (Interaction Designers Association) 2020 (Milan, ITA)
 
 26 June 2019 - Ethereum London keynote “Designers, Toasters and Blockchain” (London, UK)
