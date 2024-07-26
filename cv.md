@@ -23,7 +23,8 @@ Experienced Product/UX Designer Crafting Innovative Solutions
 
 **Textile** - Senior Designer (June 2023 - present)
 - Conducted user research, developed and executed designs, helping bring a CLI-based developer tool to web application
-- Building design as a practice and bringing user-centred design to developer tools and databases
+- Introduced and led user-centred design methods to understand developer tools to help successive and iterative launches of an innovative data product.
+- Presented about data and design for developers at international conferences
 
 **SEDNA** - Design Lead, Senior Product/Interaction Designer (Oct 2020 - Dec 2022)
 - Pioneered user-centred design methodologies to revolutionise enterprise communications for automation, collaboration and transactions.
