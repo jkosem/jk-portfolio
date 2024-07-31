@@ -23,7 +23,7 @@ few examples of what all of this looks like, and there is more in the [archive](
 
 #### [Textile Tableland Studio](textile-tablelandstudio.html)
 
-Creating a complete distributed database solution web app from a command line
+Creating a complete distributed database solution application
 
 &nbsp;
 

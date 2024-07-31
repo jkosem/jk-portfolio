@@ -19,7 +19,7 @@ As the lead product designer at Textile, I led introduction of user-centred rese
 
 ## Results
 
-* Helped recruiting of participants for user research
+* Helped recruiting of participants for and conducted various rounds of user research
 * Introduced user research methods and testing of product thinking and design
 * Led the product design of a complete move from Command Line Interface (CLI) to web app GUI
 * Setup analytics and created product design and direction recommendations based on those
