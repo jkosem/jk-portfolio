@@ -21,7 +21,7 @@ Experienced Product/UX Designer Crafting Innovative Solutions
 
 ## Experience 
 
-**Textile** - Senior Designer (June 2023 - present)
+**Textile** - Senior Designer (June 2023 - August 2024)
 - Conducted user research, developed and executed designs, helping bring a CLI-based developer tool to web application
 - Introduced and led user-centred design methods to understand developer tools to help successive and iterative launches of an innovative data product.
 - Presented about data and design for developers at international conferences

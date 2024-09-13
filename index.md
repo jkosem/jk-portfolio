@@ -4,11 +4,15 @@ title: "Jim Kosem: Product, service & strategy design"
 permalink: /index
 ---
 
-# Hi, I'm Jim
+<div class="indexheader">
+	
+<h1>Hi, I'm Jim.</h1>
 
-## I design products, services and strategies
+<h2>I design products, services and strategies.</h2>
 
-I research and design interactions and interfaces that are meaningful, systems that are liveable and make emerging technologies practical realities for the following organisations and more:
+<p>I research and design interactions and interfaces that are meaningful, systems that are liveable and make emerging technologies practical realities for the following organisations and more:</p>
+
+</div>
 
 <div>
     <img src="assets/images/logos.png" style="padding-top:33px;padding-bottom:33px;">
