@@ -13,11 +13,9 @@ tags: interaction, service, research, strategy
 
 My work at SEDNA was to not only rework the product interface requiring days of training to be intuitive, but to then to direct the design towards an automated and transactional platform built on top of email.
 
-## Role
+## Role & Approach
 
 I began work with SEDNA freelance to help with [category design](https://en.wikipedia.org/wiki/Category_design) (not able to be shown) defining how to redesign email and high volume communications. After moving to a full-time Senior Designer role, I began the process of implementing the people and pieces to move the product in the direction of the category design, at which point I had helped put the research and design teams in place and became Design Lead.
-
-## Approach
 
 From the beginning, the goal was to establish user-centred design as a practice. This included hiring designers and researchers to build out this practice as well as begin a design system to further facilitate product transformation.
 
